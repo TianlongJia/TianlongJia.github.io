@@ -1,0 +1,36 @@
+---
+layout: archive
+title: null
+permalink: /experience/
+author_profile: true
+---
+{% include base_path %}
+# Academic Conferences or forums
+- Dec. 2023: American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
+- Dec. 2023: [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
+- Nov. 2023: 11th International Young Scholars Forum of Sichuan University
+- Apr. 2023: The EGU General Assembly 2023 (EGU 2023), Vienna, Austria
+- Dec. 2022: [1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
+- May. 2022: The EGU General Assembly 2022 (EGU 2022), Vienna, Austria
+- Oct. 2018: 1st International Symposium on Water System Operations (ISWSO 2018), Beijing, China
+
+# Professional Membership
+- American Geophysical Union Member
+- EGU General Assembly Member
+
+# Reviewer for Journals
+- [Neurocomputing](www.elsevier.com/wps/find/journaldescription.cws_home/505628/description)
+
+
+<!-- # Reviewer for Conferences -->
+
+
+<!-- - Conference paper review: COTA -->
+
+
+
+<!-- # Conference organization  -->
+
+
+<!-- # Internship and project experience -->
+

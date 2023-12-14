@@ -10,7 +10,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 # Journal Papers
 <!-- ## 2020 -->
 
-* **Jia, T.**, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). [**Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2023.1298465/abstract). Frontiers In Water. <br>
+* **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). [**Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2023.1298465/abstract). Frontiers In Water. <br>
 
 * **Jia, T.**, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). [**Deep learning for detecting macroplastic litter in water bodies: A review**](https://doi.org/10.1016/j.watres.2023.119632). Water Research. <br>
 
@@ -34,7 +34,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. [**A robust deep learning methodology to detect floating macro-plastic litter in rivers**](https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.7423J/abstract), In EGU General Assembly Conference Abstracts (pp. EGU22-7423), Vienna, Austria, May 2023. <br>
 
-* **Jia T.**, Zhou J, & iu X. [**A daily power generation optimized operation method of hydropower stations with the navigation demands considered**](https://www.matec-conferences.org/articles/matecconf/abs/2018/105/matecconf_iswso2018_01065/matecconf_iswso2018_01065.html), 1st International Symposium on Water System Operations, Beijing, China, 2018 <br>
+* **Jia T.**, Zhou J, & Liu X. [**A daily power generation optimized operation method of hydropower stations with the navigation demands considered**](https://www.matec-conferences.org/articles/matecconf/abs/2018/105/matecconf_iswso2018_01065/matecconf_iswso2018_01065.html), 1st International Symposium on Water System Operations, Beijing, China, 2018 <br>
 
 
 <!-- # Presentations -->

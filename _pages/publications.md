@@ -21,7 +21,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * Zheng, T., Zhou J., Liu, L., Li, L., Jiang, W., **Jia, T.**, & Xu, Y. (2019). **Pumped Storage Unit Fault Correlativity Analysis and Research Based on Data Mining**. Large Electric Machine and Hydraulic Turbine. <br>
 
-* *Jia, T.*, Xia, H., & Xu, H. (2015). **Multinodal unmanned hydrological surveillance ship system based on Hadoop platform**. Heilongjiang Water Resources. <br>
+* **Jia, T.**, Xia, H., & Xu, H. (2015). **Multinodal unmanned hydrological surveillance ship system based on Hadoop platform**. Heilongjiang Water Resources. <br>
 
 
 <br>

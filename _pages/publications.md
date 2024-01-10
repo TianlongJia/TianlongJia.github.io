@@ -14,7 +14,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). [**Deep learning for detecting macroplastic litter in water bodies: A review**](https://doi.org/10.1016/j.watres.2023.119632). Water Research. <br>
 
-* G, Chen., K, Zhang.*, S, Wang., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>
+* Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>
 
 * **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J.* (2019). [**Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**](https://www.mdpi.com/2073-4441/11/6/1272). Water. <br>
 

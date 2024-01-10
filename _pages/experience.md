@@ -12,6 +12,7 @@ author_profile: true
 - Apr. 2023: The EGU General Assembly 2023 (EGU 2023), Vienna, Austria
 - Dec. 2022: [1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
 - May. 2022: The EGU General Assembly 2022 (EGU 2022), Vienna, Austria
+- Apr. 2019: Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China
 - Oct. 2018: 1st International Symposium on Water System Operations (ISWSO 2018), Beijing, China
 
 # Professional Membership

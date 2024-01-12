@@ -21,6 +21,7 @@ author_profile: true
 
 # Reviewer for Journals
 - [Neurocomputing](www.elsevier.com/wps/find/journaldescription.cws_home/505628/description)
+- [Artificial Intelligence and Applications](https://ojs.bonviewpress.com/index.php/AIA/index)
 
 
 <!-- # Reviewer for Conferences -->

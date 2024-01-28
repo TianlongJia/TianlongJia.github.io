@@ -8,11 +8,27 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am working towards the Ph.D. degree in the [AidroLab](https://www.tudelft.nl/ai/aidrolab), [Delft University of Technology (TUD)](https://www.tudelft.nl/), Delft, the Netherlands, under the supervision of Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina) and Prof. [Zoran Kapelan](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/prof-dr-zoran-kapelan). 
-Prior to joining TUD, I received the B.S. and M.Sc. degrees from [Harbin Engineering University (HEU)](https://english.hrbeu.edu.cn), and the [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China, in 2017 and 2020, respectively. 
+I am working towards the Ph.D. degree in [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands, under the supervision of Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/prof-dr-zoran-kapelan), and Rinze de Vries. I am working with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at the Department of Civil Engineering and Geosciences, and Electrical Engineering, Mathematics and Computer Science. My PhD research focuses on using artificial intelligence and deep learning techniques to detect and monitor floating macroplastic litter in rivers and urban waterways. Prior to joining TUD, I received the M.Sc. degree from School of Hydropower and Information Engineering, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) in 2020, under the supervision of Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm). In 2017, I received the B.S. degree from College of Shipbuilding Engineering, [Harbin Engineering University (HEU)](https://english.hrbeu.edu.cn). 
 
 **Contact**
 - E-mail: T.Jia@tudlet.nl  
+
+I am always open to collaborations and interesting conversations, and can be best reached by email.
+
+Education
+======
+* Delft University of Technology
+Ph.D., Department of Civil Engineering and Geosciences, 2020-current, the Netherlands
+Superviser: Dr. Riccardo Taormina, Prof. Zoran Kapelan, and Rinze de Vries
+
+* Huazhong University of Science and Technology
+M.Sc., School of Hydropower and Information Engineering, 2017-2020, China
+Superviser: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. Hui Qin
+
+* Harbin Engineering University
+M.Sc., College of Shipbuilding Engineering, 2013-2017, China
+
+
 
 Research Interests
 ======

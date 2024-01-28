@@ -28,7 +28,7 @@ Education
     - Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)
 
 - **[Harbin Engineering University](https://english.hrbeu.edu.cn) (2013-2017)**
-    - B.S., College of Shipbuilding Engineering, 2013-2017, China
+    - B.S., College of Shipbuilding Engineering, China
     - Focus: Port & Waterway and Coastal Engineering
     - Supervisor: Sulian Zhou
 

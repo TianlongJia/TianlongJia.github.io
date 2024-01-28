@@ -17,23 +17,20 @@ I am always open to collaborations and interesting conversations, and can be bes
 
 Education
 ======
-* [Delft University of Technology (TUD)](https://www.tudelft.nl/)
+- **[Delft University of Technology (TUD)](https://www.tudelft.nl/) (2020-current)**
+    - Ph.D., [AidroLab](https://www.tudelft.nl/ai/aidrolab), AI for sustainable water management, the Netherlands
+    - Focus: Artificial Intelligence and Environment monitoring
+    - Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/prof-dr-zoran-kapelan), and Rinze de Vries
 
-Ph.D., [AidroLab](https://www.tudelft.nl/ai/aidrolab), AI for sustainable water management, 2020-current, the Netherlands
+- **[Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2017-2020)**
+    - M.Sc., School of Hydropower and Information Engineering, China
+    - Focus: Optimal dispatch of hydroelectric power
+    - Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)
 
-Superviser: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/prof-dr-zoran-kapelan), and Rinze de Vries
-
-* [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
-
-M.Sc., School of Hydropower and Information Engineering, 2017-2020, China
-
-Superviser: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)
-
-* [Harbin Engineering University](https://english.hrbeu.edu.cn)
-
-B.S., College of Shipbuilding Engineering, 2013-2017, China
-
-
+- **[Harbin Engineering University](https://english.hrbeu.edu.cn) (2013-2017)**
+    - B.S., College of Shipbuilding Engineering, 2013-2017, China
+    - Focus: Port & Waterway and Coastal Engineering
+    - Supervisor: Sulian Zhou
 
 Research Interests
 ======

@@ -18,15 +18,20 @@ I am always open to collaborations and interesting conversations, and can be bes
 Education
 ======
 * [Delft University of Technology (TUD)](https://www.tudelft.nl/)
+
 Ph.D., [AidroLab](https://www.tudelft.nl/ai/aidrolab), AI for sustainable water management, 2020-current, the Netherlands
+
 Superviser: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/prof-dr-zoran-kapelan), and Rinze de Vries
 
 * [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
+
 M.Sc., School of Hydropower and Information Engineering, 2017-2020, China
+
 Superviser: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)
 
 * [Harbin Engineering University](https://english.hrbeu.edu.cn)
-M.Sc., College of Shipbuilding Engineering, 2013-2017, China
+
+B.S., College of Shipbuilding Engineering, 2013-2017, China
 
 
 

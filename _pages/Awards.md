@@ -18,7 +18,7 @@ author_profile: true
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Mathematical Contest In Modeling (MCM/ICM)&emsp;Honorable Mention
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;The 5th National Marine Vehicle Design and Production Competition&emsp;**Grand Prize**
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;"Challenge Cup" Heilongjiang Provincial University Student Entrepreneurship Competition&emsp;**Gold Award**
-- 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction&emsp;2nd prize
+- 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National College Students energy saving and emission reduction contest&emsp;2nd prize
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National College Students Mathematical Modeling Competition (Northeast of China)&emsp;1st prize
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Beidou-Cup China Adolescents Science & Technology Invention Contest&emsp;3rd prize
 - 2015&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Mathematical Modeling League Contest of Northeast Three Provinces&emsp;1st prize

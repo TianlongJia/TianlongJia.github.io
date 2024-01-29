@@ -17,7 +17,7 @@ author_profile: true
 - 2018&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**International Collegiate Spacecraft Innovation Design Contest 2018&emsp;1st prize (top 10%)**
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Mathematical Contest In Modeling (MCM/ICM)&emsp;Honorable Mention
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**The 5th National Marine Vehicle Design and Production Competition&emsp;Grand Prize**
-- 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**"Challenge Cup" Heilongjiang Provincial University Student Entrepreneurship Competition&emsp;Gold Award**
+- 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;"Challenge Cup" Heilongjiang Provincial University Student Entrepreneurship Competition&emsp;Gold Award
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National College Students energy saving and emission reduction contest&emsp;2nd prize
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National College Students Mathematical Modeling Competition (Northeast of China)&emsp;1st prize
 - 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Beidou-Cup China Adolescents Science & Technology Invention Contest&emsp;3rd prize

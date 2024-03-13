@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Recent news
-- [04/2023] I will attend the EGU General Assembly 2024 (EGU 2024) in Vienna, Austria
+- [04/2024] I will attend the EGU General Assembly 2024 (EGU 2024) in Vienna, Austria
 - [12/2023] I will attend the American Geophysical Union Fall Meeting 2023 (AGU 2023) in San Francisco, USA
 - [12/2023] I will present in [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
 - [12/2023] [Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2023.1298465/abstract) accepted to Frontiers In Water

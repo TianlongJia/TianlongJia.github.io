@@ -10,10 +10,10 @@ redirect_from:
 <br>
 I am working towards the Ph.D. degree in [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands, under the supervision of Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/prof-dr-zoran-kapelan), and Rinze de Vries. I am working with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at the [Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg), and [Faculty of Electrical Engineering, Mathematics and Computer Science](https://www.tudelft.nl/en/eemcs). My PhD research focuses on using artificial intelligence and deep learning techniques to detect and monitor floating macroplastic litter in rivers and urban waterways. Prior to joining TUD, I received the M.Sc. degree from School of Hydropower and Information Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2020, under the supervision of Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm). In 2017, I received the B.S. degree from College of Shipbuilding Engineering, [Harbin Engineering University](https://english.hrbeu.edu.cn). 
 
-**Currently, I’m doing my final-year PhD study and looking for postdoctoral opportunities. If you have any suitable positions, please contact me T.Jia@tudlet.nl.**
+**Currently, I’m doing my final-year PhD study and looking for postdoctoral opportunities. If you have any suitable positions, please contact me T.Jia@tudelft.nl.**
 
 **Contact**
-- E-mail: T.Jia@tudlet.nl
+- E-mail: T.Jia@tudelft.nl
 - Office: Room: 4.54, Building 23，Stevinweg 1，2628 CN Delft
 
 I am always open to collaborations and interesting conversations, and can be best reached by email.

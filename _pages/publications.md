@@ -14,10 +14,11 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). [**Deep learning for detecting macroplastic litter in water bodies: A review**](https://doi.org/10.1016/j.watres.2023.119632). Water Research. <br>
 
+* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J. & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
+
 * Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>
 
-* **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J.* (2019). [**Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**](https://www.mdpi.com/2073-4441/11/6/1272). Water. <br>
-
+* **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). [**Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**](https://www.mdpi.com/2073-4441/11/6/1272). Water. <br>
 
 * Zheng, T., Zhou J., Liu, L., Li, L., Jiang, W., **Jia, T.**, & Xu, Y. (2019). **Pumped Storage Unit Fault Correlativity Analysis and Research Based on Data Mining**. Large Electric Machine and Hydraulic Turbine. <br>
 
@@ -32,7 +33,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * Vallendar, A., **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. [**An open source dataset for Deep Learning-based visual detection of floating macroplastic litter**](https://meetingorganizer.copernicus.org/EGU23/EGU23-12092.html), In EGU General Assembly Conference Abstracts (No. EGU23-12092), Vienna, Austria, April 2023. <br>
 
-* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**A robust deep learning methodology to detect floating macro-plastic litter in rivers**](https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.7423J/abstract), In EGU General Assembly Conference Abstracts (pp. EGU22-7423), Vienna, Austria, May 2023. <br>
+* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**A robust deep learning methodology to detect floating macro-plastic litter in rivers**](https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.7423J/abstract), In EGU General Assembly Conference Abstracts (pp. EGU22-7423), Vienna, Austria, May 2022. <br>
 
 * **Jia T.**, Zhou J.*, & Liu X. [**A daily power generation optimized operation method of hydropower stations with the navigation demands considered**](https://www.matec-conferences.org/articles/matecconf/abs/2018/105/matecconf_iswso2018_01065/matecconf_iswso2018_01065.html), 1st International Symposium on Water System Operations, Beijing, China, 2018 <br>
 

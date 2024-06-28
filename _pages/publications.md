@@ -10,11 +10,11 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 # Journal Papers
 <!-- ## 2020 -->
 
+* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J. & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
+
 * **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). [**Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2023.1298465/abstract). Frontiers In Water. <br>
 
 * **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). [**Deep learning for detecting macroplastic litter in water bodies: A review**](https://doi.org/10.1016/j.watres.2023.119632). Water Research. <br>
-
-* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J. & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
 
 * Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>
 
@@ -28,6 +28,8 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <br>
 
 # Conference papers or abstract
+
+* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic Litter with Semi-Supervised Deep Learning**](https://meetingorganizer.copernicus.org/EGU24/EGU24-9691.html), EGU24 (European Geosciences Union) Conference Abstracts, Vienna, Austria, April 2024. <br>
 
 * **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic litter with Semi-supervised Deep Learning**](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1260833), AGU23 (American Geophysical Union) Conference Abstracts, San Francisco, CA, the United States, December 2023. <br>
 

@@ -20,10 +20,10 @@ author_profile: true
 - EGU General Assembly Member
 
 # Reviewer for Journals
-- [Neurocomputing](www.elsevier.com/wps/find/journaldescription.cws_home/505628/description)
-- [Environmental Science and Pollution Research](https://link-springer-com.tudelft.idm.oclc.org/journal/11356)
+- [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
+- [Environmental Science and Pollution Research](https://www.springer.com/11356)
+- [Frontiers in Earth Science](https://www.frontiersin.org/journals/earth-science)
 - [Artificial Intelligence and Applications](https://ojs.bonviewpress.com/index.php/AIA/index)
-
 
 <!-- # Reviewer for Conferences -->
 

@@ -38,16 +38,15 @@ Education
 Research Interests
 ======
 My primary research interests are in emerging problems related to environment monitoring, smart water management, and artificial intelligence research, including: 
+
+- **Artificial Intelligence (AI)**
+    - Deep learning and machine learning
+    - Self-supervised learning and semi-supervised learning
+    - Contrastive learning
+    - Computer vision (e.g., image classification, object detection and image segmentation)
 - **Environment monitoring**
     - Floating macroplastic litter detection and quantification
     - Monitoring strategy
-- **Artificial Intelligence**
-    - Deep learning
-    - Self-supervised learning
-    - Computer vision
-    - Image classification
-    - Object detection
-    - Image Segmentation
 - **Smart water management**
     - Optimal dispatch of hydroelectric power
     - Multi-objective optimization

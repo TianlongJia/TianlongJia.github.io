@@ -45,8 +45,9 @@ My primary research interests are in emerging problems related to environment mo
     - Contrastive learning
     - Computer vision (e.g., image classification, object detection and image segmentation)
 - **Environment monitoring**
-    - Floating macroplastic litter detection and quantification
-    - Monitoring strategy
+    - Macroplastics monitoring
+    - Earth observation
+    - Remote sensing
 - **Smart water management**
     - Optimal dispatch of hydroelectric power
     - Multi-objective optimization

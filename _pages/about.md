@@ -43,8 +43,9 @@ My primary research interests are in emerging problems related to environment mo
     - Deep learning, and machine learning
     - Unsupervised learning, and semi-supervised learning
     - Self-supervised learning, and contrastive learning
-    - Transfer learning
     - Computer vision (e.g., image classification, object detection, and image segmentation)
+    - Transfer learning
+    - Explainable AI
 - **Environment monitoring**
     - Macroplastics monitoring
     - Earth observation

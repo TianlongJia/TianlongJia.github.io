@@ -9,6 +9,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
+* **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  [**Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method**](https://doi.org/10.1016/j.scitotenv.2024.175813). Science of The Total Environment. <br>
 
 * Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J. & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
 

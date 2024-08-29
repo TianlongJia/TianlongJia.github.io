@@ -51,8 +51,9 @@ My primary research interests are in emerging problems related to environment mo
     - Earth observation
     - Remote sensing
 - **Smart water management**
-    - Optimal dispatch of hydroelectric power
+    - Optimal operation of hydropower reservoirs
     - Multi-objective optimization
+    - Genetic Algorithm
     - Hydroinformatics
     - Hydrodynamic simulation
 

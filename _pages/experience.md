@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Academic Conferences or forums
+- Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
 - Dec. 2023: American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
 - Dec. 2023: [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
 - Nov. 2023: 11th International Young Scholars Forum of Sichuan University

@@ -9,11 +9,13 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
+* **Jia, T.**, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  [**Detecting floating litter in freshwater bodies with semi-supervised deep learning**](https://doi.org/10.1016/j.watres.2024.122405). Water Research. <br>
+
 * **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  [**Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method**](https://doi.org/10.1016/j.scitotenv.2024.175813). Science of The Total Environment. <br>
 
-* van Emmerik, T. H. M., Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., and Schreyers, L. J. (2024).  [**Water hyacinths as riverine plastic pollution carriers**](https://doi.org/10.5194/egusphere-2024-2270). Biogeosciences (Pre-print). <br>
+* van Emmerik, T. H. M., Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2024).  [**Water hyacinths as riverine plastic pollution carriers**](https://doi.org/10.5194/egusphere-2024-2270). Biogeosciences (Pre-print). <br>
 
-* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J. & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
+* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
 
 * **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). [**Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**](https://doi.org/10.3389/frwa.2023.1298465). Frontiers In Water. <br>
 

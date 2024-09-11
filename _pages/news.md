@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Recent news
+- [09/2024] [Detecting floating litter in freshwater bodies with semi-supervised deep learning](https://doi.org/10.1016/j.watres.2024.122405) accepted to Water Research
 - [08/2024] [Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method](https://doi.org/10.1016/j.scitotenv.2024.175813) accepted to Science of The Total Environment
 - [06/2024] [Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective](https://doi.org/10.1016/j.watres.2024.121999) accepted to Water Research
 - [04/2024] I will attend the EGU General Assembly 2024 (EGU 2024) in Vienna, Austria

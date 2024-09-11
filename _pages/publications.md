@@ -13,17 +13,17 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  [**Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method**](https://doi.org/10.1016/j.scitotenv.2024.175813). Science of The Total Environment. <br>
 
-* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2024).  [**Water hyacinths as riverine plastic pollution carriers**](https://doi.org/10.5194/egusphere-2024-2270). Biogeosciences (Pre-print). <br>
-
-* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
-
 * **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). [**Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**](https://doi.org/10.3389/frwa.2023.1298465). Frontiers In Water. <br>
 
 * **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). [**Deep learning for detecting macroplastic litter in water bodies: A review**](https://doi.org/10.1016/j.watres.2023.119632). Water Research. <br>
 
-* Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>
-
 * **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). [**Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**](https://www.mdpi.com/2073-4441/11/6/1272). Water. <br>
+
+* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2024).  [**Water hyacinths as riverine plastic pollution carriers**](https://doi.org/10.5194/egusphere-2024-2270). Biogeosciences (Pre-print). <br>
+
+* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
+
+* Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>
 
 * Zheng, T., Zhou J., Liu, L., Li, L., Jiang, W., **Jia, T.**, & Xu, Y. (2019). **Pumped Storage Unit Fault Correlativity Analysis and Research Based on Data Mining**. Large Electric Machine and Hydraulic Turbine. <br>
 

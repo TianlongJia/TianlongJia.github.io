@@ -9,7 +9,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
-* **Jia, T.**, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  [**Detecting floating litter in freshwater bodies with semi-supervised deep learning**](https://doi.org/10.1016/j.watres.2024.122405). Water Research. <br>
+* **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  [**Detecting floating litter in freshwater bodies with semi-supervised deep learning**](https://doi.org/10.1016/j.watres.2024.122405). Water Research. <br>
 
 * **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  [**Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method**](https://doi.org/10.1016/j.scitotenv.2024.175813). Science of The Total Environment. <br>
 

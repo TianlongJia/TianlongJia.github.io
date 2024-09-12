@@ -27,7 +27,7 @@ Education
 
 - **[Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2017-2020)**
     - M.Sc., School of Hydropower and Information Engineering, China
-    - Focus: Optimal dispatch of hydroelectric power
+    - Focus: Optimized scheduling of hydropower for reservoirs
     - Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)
 
 - **[Harbin Engineering University](https://english.hrbeu.edu.cn) (2013-2017)**

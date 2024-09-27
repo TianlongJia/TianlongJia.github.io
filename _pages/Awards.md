@@ -7,7 +7,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Awards
-- 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**Chinese National Scholarship (top 10%)**. This scholarship is with the highest honor that Chinese college students can obtain.
+- 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**Chinese National Scholarship (top 10%)**. (The highest honor that Chinese master students can obtain).
 - 2019, 2017&emsp;**First-class Academic Postgraduate Scholarship (top 10%)**
 - 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Second-class Zhixing Scholarship (top 10%)
 - 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Merit Student (top 15%)

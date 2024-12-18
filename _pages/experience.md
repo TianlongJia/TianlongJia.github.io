@@ -25,6 +25,7 @@ author_profile: true
 - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
 - [Environmental Science and Pollution Research](https://www.springer.com/11356)
 - [Frontiers in Earth Science](https://www.frontiersin.org/journals/earth-science)
+- [Microplastics and Nanoplastics](https://microplastics.springeropen.com/)
 - [Artificial Intelligence and Applications](https://ojs.bonviewpress.com/index.php/AIA/index)
 
 <!-- # Reviewer for Conferences -->

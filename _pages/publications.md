@@ -34,6 +34,13 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Conference papers or abstract
 
+* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-Supervised Learning Approach for Sewer Defect Detection**, [6th International Conference on Water Economics, Statistics and Finance
+and 10th Leading Edge Conference for Strategic Asset Management (LESAM)](https://iwacyprus2025.com/), Pafos, Cyprus, April, 2025. <br>
+
+* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, [16th International Conference on Urban Drainage 2024](https://icud2024.org/), Delft, the Netherlands, June 2024. <br>
+
+* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, [16th International Conference on Urban Drainage 2024](https://icud2024.org/), Delft, the Netherlands, June 2024. <br>
+
 * **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic Litter with Semi-Supervised Deep Learning**](https://doi.org/10.5194/egusphere-egu24-9691), EGU24 (European Geosciences Union) Conference Abstracts, Vienna, Austria, April 2024. <br>
 
 * **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic litter with Semi-supervised Deep Learning**](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1260833), AGU23 (American Geophysical Union) Conference Abstracts, San Francisco, CA, the United States, December 2023. <br>

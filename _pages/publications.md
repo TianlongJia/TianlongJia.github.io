@@ -34,18 +34,20 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Conference papers or abstract
 
+* **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. [**Quantifying Floating Litter Fluxes with a Semi-Supervised Learning-Based Framework**](https://meetingorganizer.copernicus.org/EGU25/EGU25-12591.html), EGU25 (European Geosciences Union) Conference, Vienna, Austria, April 2025. <br>
+
 * Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-Supervised Learning Approach for Sewer Defect Detection**, [6th International Conference on Water Economics, Statistics and Finance
 and 10th Leading Edge Conference for Strategic Asset Management (LESAM)](https://iwacyprus2025.com/), Pafos, Cyprus, April, 2025. <br>
 
 * Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, [16th International Conference on Urban Drainage 2024](https://icud2024.org/), Delft, the Netherlands, June 2024. <br>
 
-* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic Litter with Semi-Supervised Deep Learning**](https://doi.org/10.5194/egusphere-egu24-9691), EGU24 (European Geosciences Union) Conference Abstracts, Vienna, Austria, April 2024. <br>
+* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic Litter with Semi-Supervised Deep Learning**](https://doi.org/10.5194/egusphere-egu24-9691), EGU24 (European Geosciences Union) Conference, Vienna, Austria, April 2024. <br>
 
-* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic litter with Semi-supervised Deep Learning**](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1260833), AGU23 (American Geophysical Union) Conference Abstracts, San Francisco, CA, the United States, December 2023. <br>
+* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic litter with Semi-supervised Deep Learning**](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1260833), AGU23 (American Geophysical Union) Conference, San Francisco, CA, the United States, December 2023. <br>
 
-* Vallendar, A., **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. [**An open source dataset for Deep Learning-based visual detection of floating macroplastic litter**](https://doi.org/10.5194/egusphere-egu23-12092), In EGU General Assembly Conference Abstracts (No. EGU23-12092), Vienna, Austria, April 2023. <br>
+* Vallendar, A., **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. [**An open source dataset for Deep Learning-based visual detection of floating macroplastic litter**](https://doi.org/10.5194/egusphere-egu23-12092), EGU23 (European Geosciences Union) Conference, Vienna, Austria, April 2023. <br>
 
-* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**A robust deep learning methodology to detect floating macro-plastic litter in rivers**](https://doi.org/10.5194/egusphere-egu22-7423), In EGU General Assembly Conference Abstracts (pp. EGU22-7423), Vienna, Austria, May 2022. <br>
+* **Jia, T.***, de Vries, R., Kapelan, Z., & Taormina, R. [**A robust deep learning methodology to detect floating macro-plastic litter in rivers**](https://doi.org/10.5194/egusphere-egu22-7423), EGU22 (European Geosciences Union) Conference, Vienna, Austria, May 2022. <br>
 
 * **Jia T.**, Zhou J.*, & Liu X. [**A daily power generation optimized operation method of hydropower stations with the navigation demands considered**](https://doi.org/10.1051/matecconf/201824601065), 1st International Symposium on Water System Operations, Beijing, China, 2018 <br>
 

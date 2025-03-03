@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am working as a Postdoctoral Researcher at [Institute for Water and Environment (IWU)](https://www.iwu.kit.edu/hyd/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/), Germany. My research focus on artificial intelligence(AI)-based flood prediction in small river basins in Germany, as part of the project [KI-HopE-De](https://www.iwu.kit.edu/hyd/english/Research_1390.php). Prior to joining the KIT, I worked as a PhD with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands. My PhD research focuses on AI-based detection and quantification of floating macroplastic litter in rivers.
+I am working as a Postdoctoral Researcher at [Institute for Water and Environment (IWU)](https://www.iwu.kit.edu/hyd/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/), Germany. My research focuse on artificial intelligence(AI)-based flood prediction in small river basins in Germany, as part of the project [KI-HopE-De](https://www.iwu.kit.edu/hyd/english/Research_1390.php). Prior to joining the KIT, I worked as a PhD with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands. My PhD research focus on AI-based detection and quantification of floating macroplastic litter in rivers.
 
 
 **Contact**
-- E-mail: Tianlong.Jia@kit.edu and T.Jia@tudelft.nl
+- E-mail: *Tianlong.Jia@kit.edu*, and *T.Jia@tudelft.nl*
 - Office: Room 420.3, Building 10.81, Otto-Ammann-Platz 1, 76131 Karlsruhe, Germany
 
 I am always open to collaborations and interesting conversations, and can be best reached by email.
@@ -50,6 +50,7 @@ My primary research interests are in emerging problems related to environment mo
     - Earth observation
     - Remote sensing
 - **Smart water management**
+    - Flood forecasting
     - Optimal operation of hydropower reservoirs
     - Multi-objective optimization
     - Genetic Algorithm

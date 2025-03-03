@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianlong's Homepage"
 title_separator          : "-"
 name                     : &name "Tianlong Jia"
-description              : &description "PhD studnet"
+description              : &description "Postdoctoral Researcher"
 url                      : https://tianlongjia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianlongjia/tianlongjia.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tianlong Jia"
   avatar           : "MyPicture.jpg"  # This image is on the folder "images"
-  bio              : "PhD student in Delft University of Technology"
-  location         : "Delft, Netherlands"
+  bio              : "Postdoctoral Researcher in Karlsruhe Institute of Technology (KIT)"
+  location         : "Karlsruhe, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=3L04RecAAAAJ&hl=zh-CN"

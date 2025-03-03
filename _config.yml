@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianlong Jia"
   avatar           : "MyPicture.jpg"  # This image is on the folder "images"
-  bio              : "Postdoctoral Researcher in Karlsruhe Institute of Technology (KIT)"
+  bio              : "Postdoctoral researcher at Karlsruhe Institute of Technology (KIT)"
   location         : "Karlsruhe, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=3L04RecAAAAJ&hl=zh-CN"
-  email            : "T.Jia@tudelft.nl"
+  email            : "tianlong.jia@kit.edu"
   researchgate     : "https://www.researchgate.net/profile/Tianlong-Jia"
   uri              :
   bitbucket        :

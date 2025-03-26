@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am working as a Postdoctoral researcher at [Institute for Water and Environment (IWU)](https://www.iwu.kit.edu/hyd/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/), Germany. My research focuse on artificial intelligence(AI)-based flood prediction in small river basins in Germany, as part of the project [KI-HopE-De](https://www.iwu.kit.edu/hyd/english/Research_1390.php). Prior to joining the KIT, I worked as a PhD with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands. My PhD research focus on AI-based detection and quantification of floating macroplastic litter in rivers.
+I am working as a Postdoctoral researcher at [Institute for Water and Environment (IWU)](https://www.iwu.kit.edu/hyd/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/), Germany. My research focuse on artificial intelligence(AI)-based flood prediction in small river basins in Germany, as part of the project [KI-HopE-De](https://ki-hope.de/). Prior to joining the KIT, I worked as a PhD with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands. My PhD research focus on AI-based detection and quantification of floating macroplastic litter in rivers.
 
 
 **Contact**
@@ -16,6 +16,37 @@ I am working as a Postdoctoral researcher at [Institute for Water and Environmen
 - Office: Room 420.3, Building 10.81, Otto-Ammann-Platz 1, 76131 Karlsruhe, Germany
 
 I am always open to collaborations and interesting conversations, and can be best reached by email.
+
+Research Interests
+======
+My primary research interests are in emerging problems related to environment monitoring, smart water management, and artificial intelligence research, including: 
+
+- **Artificial Intelligence (AI)**
+    - Deep learning, and machine learning
+    - Unsupervised learning, and semi-supervised learning
+    - Self-supervised learning, and contrastive learning
+    - Time series forecasting
+    - Computer vision (e.g., image classification, object detection, and image segmentation)
+    - Transfer learning
+    - Explainable AI
+- **Smart water management**
+    - Flood forecasting
+    - Optimal operation of hydropower reservoirs
+    - Multi-objective optimization
+    - Genetic Algorithm
+    - Hydroinformatics
+    - Hydrodynamic simulation
+- **Environment monitoring**
+    - Floating macroplastics monitoring
+    - Earth observation
+    - Remote sensing
+
+Projects
+======
+- [KI-HopE-De - AI-based flood prediction in small river basins in Germany](https://ki-hope.de/), funded by [Federal Ministry of Education and Research](https://www.bmbf.de/EN/Home/home_node.html) (2025-2028)
+- AI-based detecting and quantification of floating macroplastic litter in rivers and urban waterways in the Netherlands, funded by TUD and [Ministry of Infrastructure and Water Management (RWS)](https://www.rijkswaterstaat.nl/en) (2020-2025)
+- Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html)(2017–2020)
+
 
 Education
 ======
@@ -33,29 +64,6 @@ Education
     - B.S., College of Shipbuilding Engineering, China
     - Focus: Port & Waterway and Coastal Engineering
     - Supervisor: Sulian Zhou
-
-Research Interests
-======
-My primary research interests are in emerging problems related to environment monitoring, smart water management, and artificial intelligence research, including: 
-
-- **Artificial Intelligence (AI)**
-    - Deep learning, and machine learning
-    - Unsupervised learning, and semi-supervised learning
-    - Self-supervised learning, and contrastive learning
-    - Computer vision (e.g., image classification, object detection, and image segmentation)
-    - Transfer learning
-    - Explainable AI
-- **Environment monitoring**
-    - Macroplastics monitoring
-    - Earth observation
-    - Remote sensing
-- **Smart water management**
-    - Flood forecasting
-    - Optimal operation of hydropower reservoirs
-    - Multi-objective optimization
-    - Genetic Algorithm
-    - Hydroinformatics
-    - Hydrodynamic simulation
 
 
 <!-- A data-driven personal website

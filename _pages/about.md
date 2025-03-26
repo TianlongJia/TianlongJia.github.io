@@ -45,7 +45,7 @@ Projects
 ======
 - [KI-HopE-De - AI-based flood prediction in small river basins in Germany](https://ki-hope.de/), funded by [Federal Ministry of Education and Research](https://www.bmbf.de/EN/Home/home_node.html) (2025-2028)
 - AI-based detecting and quantification of floating macroplastic litter in rivers and urban waterways in the Netherlands, funded by TUD and [Ministry of Infrastructure and Water Management (RWS)](https://www.rijkswaterstaat.nl/en) (2020-2025)
-- Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html)(2017–2020)
+- Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html) (2017–2020)
 
 
 Education

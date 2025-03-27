@@ -10,12 +10,8 @@ redirect_from:
 <br>
 I am working as a Postdoctoral researcher at [Institute for Water and Environment (IWU)](https://www.iwu.kit.edu/hyd/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/), Germany. My research focuse on artificial intelligence(AI)-based flood prediction in small river basins in Germany, as part of the project [KI-HopE-De](https://ki-hope.de/). Prior to joining the KIT, I worked as a PhD with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands. My PhD research focus on AI-based detection and quantification of floating macroplastic litter in rivers.
 
+My official webpage can be found [here](https://www.iwu.kit.edu/hyd/english/Staff_1391.php).
 
-**Contact**
-- E-mail: *Tianlong.Jia@kit.edu*, and *T.Jia@tudelft.nl*
-- Office: Room 420.3, Building 10.81, Otto-Ammann-Platz 1, 76131 Karlsruhe, Germany
-
-I am always open to collaborations and interesting conversations, and can be best reached by email.
 
 Research Interests
 ======
@@ -43,7 +39,7 @@ My primary research interests are in emerging problems related to environment mo
 
 Projects
 ======
-- [KI-HopE-De - AI-based flood prediction in small river basins in Germany](https://ki-hope.de/), funded by [Federal Ministry of Education and Research](https://www.bmbf.de/EN/Home/home_node.html) (2025-2028)
+- [KI-HopE-De - AI-based flood prediction in small river basins in Germany](https://ki-hope.de/), funded by [Federal Ministry of Education and Research](https://www.bmbf.de/EN/Home/home_node.html) (2025-current)
 - AI-based detecting and quantification of floating macroplastic litter in rivers and urban waterways in the Netherlands, funded by TUD and [Ministry of Infrastructure and Water Management (RWS)](https://www.rijkswaterstaat.nl/en) (2020-2025)
 - Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html) (2017–2020)
 
@@ -65,6 +61,12 @@ Education
     - Focus: Port & Waterway and Coastal Engineering
     - Supervisor: Sulian Zhou
 
+
+**Contact**
+- E-mail: *Tianlong.Jia@kit.edu*, and *T.Jia@tudelft.nl*
+- Office: Room 420.3, Building 10.81, Otto-Ammann-Platz 1, 76131 Karlsruhe, Germany
+
+**I am always open to collaborations and interesting conversations, and can be best reached by email.**
 
 <!-- A data-driven personal website
 ======

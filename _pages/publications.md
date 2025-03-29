@@ -36,14 +36,13 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Conference papers or abstract
 
-* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, [13th Urban Drainage Modelling Conference](https://www.uibk.ac.at/en/congress/udm2025/), Innsbruck, Austria, September, 2025. <br>
+* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, 13th Urban Drainage Modelling Conference, Innsbruck, Austria, September, 2025. <br>
 
 * **Jia, T.**, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. [**Quantifying Floating Litter Fluxes with a Semi-Supervised Learning-Based Framework**](https://meetingorganizer.copernicus.org/EGU25/EGU25-12591.html), EGU25 (European Geosciences Union) Conference, Vienna, Austria, April 2025. <br>
 
-* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-Supervised Learning Approach for Sewer Defect Detection**, [6th International Conference on Water Economics, Statistics and Finance
-and 10th Leading Edge Conference for Strategic Asset Management (LESAM)](https://iwacyprus2025.com/), Pafos, Cyprus, April, 2025. <br>
+* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. [**Self-Supervised Learning Approach for Sewer Defect Detection**](https://easychair.org/smart-program/IWACyprus2025/2025-04-29.html#talk:277234), 6th International Conference on Water Economics, Statistics and Finance and 10th Leading Edge Conference for Strategic Asset Management (LESAM), Pafos, Cyprus, April, 2025. <br>
 
-* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, [16th International Conference on Urban Drainage 2024](https://icud2024.org/), Delft, the Netherlands, June 2024. <br>
+* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, 16th International Conference on Urban Drainage 2024, Delft, the Netherlands, June 2024. <br>
 
 * **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. [**Detecting Floating Macroplastic Litter with Semi-Supervised Deep Learning**](https://doi.org/10.5194/egusphere-egu24-9691), EGU24 (European Geosciences Union) Conference, Vienna, Austria, April 2024. <br>
 

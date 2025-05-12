@@ -25,12 +25,14 @@ author_profile: true
 - EGU General Assembly Member
 
 # Reviewer for Journals
-- [Hydrology and Earth System Sciences](https://www.hydrology-and-earth-system-sciences.net/)
-- [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
-- [Environmental Science and Pollution Research](https://www.springer.com/11356)
+- [Hydrology and Earth System Sciences]
+- [Neurocomputing]
+- [Big Earth Data]
+- [Journal of Environmental Management]
+- [Environmental Science and Pollution Research]
 - [Frontiers in Earth Science](https://www.frontiersin.org/journals/earth-science)
 - [Microplastics and Nanoplastics](https://microplastics.springeropen.com/)
-- [Artificial Intelligence and Applications](https://ojs.bonviewpress.com/index.php/AIA/index)
+
 
 <!-- # Reviewer for Conferences -->
 

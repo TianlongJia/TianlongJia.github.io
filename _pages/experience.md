@@ -28,7 +28,6 @@ author_profile: true
 - Hydrology and Earth System Sciences
 - Neurocomputing
 - Big Earth Data
-- Journal of Environmental Management
 - Environmental Science and Pollution Research
 - Frontiers in Earth Science
 - Microplastics and Nanoplastics

@@ -27,7 +27,6 @@ author_profile: true
 # Reviewer for Journals
 - Hydrology and Earth System Sciences
 - Neurocomputing
-- Big Earth Data
 - Environmental Science and Pollution Research
 - Frontiers in Earth Science
 - Microplastics and Nanoplastics

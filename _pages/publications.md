@@ -35,6 +35,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <br>
 
 # Conference papers or abstract
+* Ehret, U., Loritz, R., Bondy, J., Demuth, N., Dolich, A., Hollborn, S., **Jia, T.**, et al. [**ML-based Flood Forecasting for Small Catchments in Germany: The KI-HOPE-DE project**](https://meetingorganizer.copernicus.org/EMS2025/EMS2025-686.html), The 2025 Annual Meeting of the European Meteorological Society (EMS), Ljubljana, Slovenia, September 2025. <br>
 
 * Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. **Self-supervised learning approach for automatic sewer defect detection**, 13th Urban Drainage Modelling Conference, Innsbruck, Austria, September, 2025. <br>
 

@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Academic Conferences & forums
+- Apr. 2025: The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
 - Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
 - Dec. 2023: American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
 - Dec. 2023: [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment

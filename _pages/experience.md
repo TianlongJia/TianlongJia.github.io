@@ -33,6 +33,7 @@ author_profile: true
 - Frontiers in Earth Science
 - Microplastics and Nanoplastics
 - IET Image Processing
+- Signal, Image and Video Processing
 
 <!-- # Reviewer for Conferences -->
 

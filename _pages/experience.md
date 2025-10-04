@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 {% include base_path %}
-# Academic Conferences & forums
+# Academic Conferences & Forums
 - Apr. 2025: The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
 - Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
 - Dec. 2023: American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
@@ -24,6 +24,9 @@ author_profile: true
 # Professional Membership
 - American Geophysical Union Member
 - EGU General Assembly Member
+
+# Early Career Editor for Journals 
+- Water & Ecology
 
 # Reviewer for Journals
 - Hydrology and Earth System Sciences

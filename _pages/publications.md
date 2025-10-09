@@ -76,8 +76,8 @@ Jia, T. (2025). [**Deep learning-based Methods for Detecting and Quantifying flo
   - The Wageningen UR-Ho Chi Minh City dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.4121/78bb4822-7b70-4632-887a-7cacd344024e) [[Paper]](https://doi.org/10.1088/3033-4942/ae10d7)
 
 
-- Detection of the interaction between particles and biomass in in biological wastewater treatment process with deep learning
-  - The TU Delft-IPB dataset (with annotations for instance segmentation tasks) [[Link]](https://doi.org/10.5281/zenodo.13374998) [[Paper]](https://doi.org/10.1016/j.scitotenv.2024.175813)
+- Detection of the interaction between particles and biomass in biological wastewater treatment process with deep learning
+  - The TU Delft-Interaction between Particles and Biomass dataset (with annotations for instance segmentation tasks) [[Link]](https://doi.org/10.5281/zenodo.13374998) [[Paper]](https://doi.org/10.1016/j.scitotenv.2024.175813)
 
 
 

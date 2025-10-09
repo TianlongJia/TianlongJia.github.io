@@ -26,7 +26,7 @@ author_profile: true
 - EGU General Assembly Member
 
 # Early Career Editor for Journals 
-- Water & Ecology
+- [Water & Ecology](https://www.sciencedirect.com/journal/water-and-ecology)
 
 # Reviewer for Journals
 - Hydrology and Earth System Sciences

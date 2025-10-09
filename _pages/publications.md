@@ -9,6 +9,8 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
+* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  [**Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river**](https://doi.org/10.1088/3033-4942/ae10d7). Environmental Research: Water. <br>
+
 * **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  [**Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment**](https://doi.org/10.1016/j.jenvman.2025.124268). Journal of Environmental Management. <br>
 
 * **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  [**Detecting floating litter in freshwater bodies with semi-supervised deep learning**](https://doi.org/10.1016/j.watres.2024.122405). Water Research. <br>
@@ -21,7 +23,6 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). [**Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**](https://www.mdpi.com/2073-4441/11/6/1272). Water. <br>
 
-* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2024).  [**Water hyacinths as riverine plastic pollution carriers**](https://doi.org/10.5194/egusphere-2024-2270). Biogeosciences (Pre-print). <br>
 
 * Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
 
@@ -59,6 +60,11 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Doctoral Thesis
 Jia, T. (2025). [**Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments**](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e) [Dissertation (TU Delft), Delft University of Technology].
+
+# Datasets
+## For floating litter detection using deep learning
+* The TU Delft-Green Village dataset [Link](https://doi.org/10.1051/matecconf/201824601065) [Paper](https://doi.org/10.3389/frwa.2023.1298465) <br>
+
 
 <!-- # Presentations -->
 

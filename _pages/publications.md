@@ -9,6 +9,8 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
+* **Jia, T.**, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025).  **A semi-supervised learning-based framework for quantifying litter fluxes in river systems**. Water Research. <br>
+
 * van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  [**Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river**](https://doi.org/10.1088/3033-4942/ae10d7). Environmental Research: Water. <br>
 
 * **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  [**Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment**](https://doi.org/10.1016/j.jenvman.2025.124268). Journal of Environmental Management. <br>

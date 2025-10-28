@@ -11,7 +11,6 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <!-- ## 2020 -->
 * **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). [**A semi-supervised learning-based framework for quantifying litter fluxes in river systems**](https://doi.org/10.1016/j.watres.2025.124833). Water Research. <br>
 
-* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  [**Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river**](https://doi.org/10.1088/3033-4942/ae10d7). Environmental Research: Water. <br>
 
 * **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  [**Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment**](https://doi.org/10.1016/j.jenvman.2025.124268). Journal of Environmental Management. <br>
 
@@ -25,14 +24,11 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). [**Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**](https://www.mdpi.com/2073-4441/11/6/1272). Water. <br>
 
+* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  [**Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river**](https://doi.org/10.1088/3033-4942/ae10d7). Environmental Research: Water. <br>
 
 * Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
 
 * Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>
-
-* Zheng, T., Zhou J., Liu, L., Li, L., Jiang, W., **Jia, T.**, & Xu, Y. (2019). **Pumped Storage Unit Fault Correlativity Analysis and Research Based on Data Mining**. Large Electric Machine and Hydraulic Turbine. <br>
-
-* **Jia, T.**, Xia, H., & Xu, H. (2015). **Multinodal unmanned hydrological surveillance ship system based on Hadoop platform**. Heilongjiang Water Resources. <br>
 
 
 <br>

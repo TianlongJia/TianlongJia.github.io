@@ -10,7 +10,6 @@ author_profile: true
 - Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
 - Dec. 2023: American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
 - Dec. 2023: [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
-- Nov. 2023: 11th International Young Scholars Forum of Sichuan University
 - Apr. 2023: The EGU General Assembly 2023 (EGU 2023), Vienna, Austria
 - Dec. 2022: [1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
 - Dec. 2022: Plastic research in the Netherlands: Perspectives on aquatic plastic monitoring (workshop), Wageningen, the Netherlands

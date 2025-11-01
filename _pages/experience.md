@@ -29,6 +29,7 @@ author_profile: true
 
 # Reviewer for Journals
 - Hydrology and Earth System Sciences
+- Water Research
 - Neurocomputing
 - npj Computational Materials
 - Environmental Science and Pollution Research

@@ -22,10 +22,11 @@ author_profile: true
 
 # Professional Membership
 - American Geophysical Union Member
-- EGU General Assembly Member
+- European Geosciences Union Member
 
-# Early Career Editor for Journals 
-- [Water & Ecology](https://www.sciencedirect.com/journal/water-and-ecology)
+# Editor for Journals 
+- [Water & Ecology](https://www.sciencedirect.com/journal/water-and-ecology), Early Career Editor
+- [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Special Issue Editors
 
 # Reviewer for Journals
 - Hydrology and Earth System Sciences

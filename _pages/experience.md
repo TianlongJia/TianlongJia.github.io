@@ -26,7 +26,7 @@ author_profile: true
 
 # Editor for Journals 
 - [Water & Ecology](https://www.sciencedirect.com/journal/water-and-ecology), Early Career Editor
-- [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Special Issue Editors
+- [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Editor for a special [issue](https://www.mdpi.com/journal/remotesensing/special_issues/2G7O0FUSLP) 
 
 # Reviewer for Journals
 - Hydrology and Earth System Sciences

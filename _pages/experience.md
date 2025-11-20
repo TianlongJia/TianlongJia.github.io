@@ -41,6 +41,8 @@ author_profile: true
 
 <!-- # Reviewer for Conferences -->
 
+# Supervision of Master Thesis
+- Chuyue Zhang (KIT)
 
 <!-- - Conference paper review: COTA -->
 

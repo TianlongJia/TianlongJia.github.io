@@ -26,6 +26,8 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  [**Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river**](https://doi.org/10.1088/3033-4942/ae10d7). Environmental Research: Water. <br>
 
+* Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  [**Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering**](https://doi.org/10.3390/w17223316). Water. <br>
+
 * Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  [**Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**](https://doi.org/10.1016/j.watres.2024.121999). Water Research. <br>
 
 * Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). [**PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**](https://doi.org/10.1016/j.envsoft.2023.105882). Environmental Modelling & Software. <br>

@@ -17,9 +17,6 @@ author_profile: true
 - Apr. 2019: Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China
 - Oct. 2018: 1st International Symposium on Water System Operations (ISWSO 2018), Beijing, China
 
-# Projects & Collaborations
-- Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways, [link](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), A.J. Vallendar (2021)
-
 # Professional Membership
 - American Geophysical Union Member
 - European Geosciences Union Member
@@ -41,8 +38,12 @@ author_profile: true
 
 <!-- # Reviewer for Conferences -->
 
+# Collaborations
+- Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways, [link](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), [Video demo](https://www.youtube.com/watch?v=fNAS2q9GIws) A.J. Vallendar (2021)
+
 # Supervision of Master Thesis
 - Chuyue Zhang (KIT)
+
 
 <!-- - Conference paper review: COTA -->
 

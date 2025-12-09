@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Academic Conferences & Forums
-- Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum, [[Presentation Video]](https://www.bilibili.com/video/BV14qmWBwEEU/?vd_source=f75b9e25128bf502bfcc2a05dfcab32c)
+- Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum
 - Apr. 2025: The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
 - Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
 - Dec. 2023: American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA

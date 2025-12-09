@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: null
-permalink: /experience/
+permalink: /talks/
 author_profile: true
 ---
 {% include base_path %}
 
 # Talks
 - Topic: Deep learning-based riverine floating litter detection and quantification, [[Presentation Video]](https://www.bilibili.com/video/BV14qmWBwEEU/?vd_source=f75b9e25128bf502bfcc2a05dfcab32c)
+
 
 # Posters
 - Topic: Quantifying Floating Litter Fluxes with a Semi-Supervised Learning-Based Framework, [[Poster]](https://www.researchgate.net/publication/396743813_Quantifying_Floating_Litter_Fluxes_with_a_Semi-Supervised_Learning-Based_Framework_EGU25_Poster)

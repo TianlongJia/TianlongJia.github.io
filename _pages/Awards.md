@@ -10,7 +10,7 @@ author_profile: true
 - 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**[Lamminga funding](https://lammingafonds.nl/)** (**€4,000**)
 
 # Scholarship
-- 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**Chinese National Scholarship** (¥20,000, Top 1%)
+- 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**Chinese National Scholarship (CSC)** (¥20,000, Top 1%)
 - 2019, 2017&emsp;**First-class Academic Postgraduate Scholarship (¥10,000, Top 10%)**
 - 2018&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Second-class Academic Postgraduate Scholarship (¥8,000)
 - 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Second-class Zhixing Scholarship (top 10%)

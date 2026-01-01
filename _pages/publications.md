@@ -9,7 +9,15 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
-* **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). **A semi-supervised learning-based framework for quantifying litter fluxes in river systems**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
+* **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). 
+
+**A semi-supervised learning-based framework for quantifying litter fluxes in river systems**. 
+<hr class="pub-divider">
+
+Water Research. 
+[[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  
+[[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  
+[[中文解读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
 
 * **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  **Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment**. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
 
@@ -29,7 +37,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  **Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.121999) <br>
 
-* Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). **PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882) <br>
+* Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). **PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0) <br>
 
 
 <br>

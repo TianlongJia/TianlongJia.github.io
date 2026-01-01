@@ -12,17 +12,19 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 * **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). **A semi-supervised learning-based framework for quantifying litter fluxes in river systems**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
 
 
-* **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  [**Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment**](https://doi.org/10.1016/j.jenvman.2025.124268). Journal of Environmental Management. <br>
+* **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  **Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment**. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
 
-* **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  [**Detecting floating litter in freshwater bodies with semi-supervised deep learning**](https://doi.org/10.1016/j.watres.2024.122405). Water Research. <br>
 
-* **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  [**Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method**](https://doi.org/10.1016/j.scitotenv.2024.175813). Science of The Total Environment. <br>
+* **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  **Detecting floating litter in freshwater bodies with semi-supervised deep learning**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.122405)  [[Code]](https://github.com/TianlongJia/deep_plastic_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/eSAOALaTe4fm4nNgM0sVwQ) <br>
 
-* **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). [**Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**](https://doi.org/10.3389/frwa.2023.1298465). Frontiers In Water. <br>
+* **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  **Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method**. Science of The Total Environment. [[PDF]](https://doi.org/10.1016/j.scitotenv.2024.175813)  [[Code]](https://github.com/TianlongJia/deep_pollutant) <br>
 
-* **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). [**Deep learning for detecting macroplastic litter in water bodies: A review**](https://doi.org/10.1016/j.watres.2023.119632). Water Research. <br>
+* **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). **Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**. Frontiers In Water. [[PDF]](https://doi.org/10.3389/frwa.2023.1298465)  [[Code]](https://github.com/TianlongJia/deep_plastic) <br>
 
-* **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). [**Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**](https://www.mdpi.com/2073-4441/11/6/1272). Water. <br>
+* **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). **Deep learning for detecting macroplastic litter in water bodies: A review**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2023.119632) <br>
+
+* **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). **Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
+
 
 * van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  [**Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river**](https://doi.org/10.1088/3033-4942/ae10d7). Environmental Research: Water. <br>
 

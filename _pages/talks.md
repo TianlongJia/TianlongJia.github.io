@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Talks
+# Talks and presentations
 - Topic: Deep learning-based riverine floating litter detection and quantification, [[Presentation Video](https://www.bilibili.com/video/BV14qmWBwEEU/?vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
 
 

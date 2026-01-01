@@ -6,13 +6,19 @@ author_profile: true
 # sidebar_link: true
 ---
 {% include base_path %}
-# Awards
-- 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**[Lamminga funding](https://lammingafonds.nl/)** (**4,000 €**)
-- 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**Chinese National Scholarship** (Top 1%, the highest honor that Chinese master students can obtain)
-- 2019, 2017&emsp;**First-class Academic Postgraduate Scholarship (top 10%)**
-- 2018&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Second-class Academic Postgraduate Scholarship
+# Awards and fundings
+- 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**[Lamminga funding](https://lammingafonds.nl/)** (**€4,000**)
+
+# Scholarship
+- 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**Chinese National Scholarship** (¥20,000, Top 1%)
+- 2019, 2017&emsp;**First-class Academic Postgraduate Scholarship (¥10,000, Top 10%)**
+- 2018&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Second-class Academic Postgraduate Scholarship (¥8,000)
 - 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Second-class Zhixing Scholarship (top 10%)
+
+# Honors
 - 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Merit Student (top 15%)
+
+# Academic Competitions
 - 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;The 1st China Graduate Robot Innovation Design Competition&emsp;3rd prize
 - 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;The 5th China Graduate Future Aircraft Innovation Competition&emsp;3rd prize
 - 2018&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Excellent Postgraduate Cadre

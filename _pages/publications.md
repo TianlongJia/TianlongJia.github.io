@@ -11,25 +11,25 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <!-- ## 2020 -->
 * **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). **<u>A semi-supervised learning-based framework for quantifying litter fluxes in river systems</u>**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
 
-* **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  **Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment**. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
+* **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  **<u>Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment</u>**. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
 
-* **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  **Detecting floating litter in freshwater bodies with semi-supervised deep learning**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.122405)  [[Code]](https://github.com/TianlongJia/deep_plastic_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/eSAOALaTe4fm4nNgM0sVwQ) <br>
+* **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  **<u>Detecting floating litter in freshwater bodies with semi-supervised deep learning</u>**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.122405)  [[Code]](https://github.com/TianlongJia/deep_plastic_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/eSAOALaTe4fm4nNgM0sVwQ) <br>
 
-* **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  **Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method**. Science of The Total Environment. [[PDF]](https://doi.org/10.1016/j.scitotenv.2024.175813)  [[Code]](https://github.com/TianlongJia/deep_pollutant) <br>
+* **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  **<u>Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method</u>**. Science of The Total Environment. [[PDF]](https://doi.org/10.1016/j.scitotenv.2024.175813)  [[Code]](https://github.com/TianlongJia/deep_pollutant) <br>
 
-* **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). **Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset**. Frontiers In Water. [[PDF]](https://doi.org/10.3389/frwa.2023.1298465)  [[Code]](https://github.com/TianlongJia/deep_plastic) <br>
+* **Jia, T.***, Vallendar, A., de Vries, R., Kapelan, Z., & Taormina, R. (2023). **<u>Advancing Deep Learning-based Detection of Floating Litter using a Novel Open Dataset</u>**. Frontiers In Water. [[PDF]](https://doi.org/10.3389/frwa.2023.1298465)  [[Code]](https://github.com/TianlongJia/deep_plastic) <br>
 
-* **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). **Deep learning for detecting macroplastic litter in water bodies: A review**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2023.119632) <br>
+* **Jia, T.***, Kapelan, Z., de Vries, R., Vriend, P., Peereboom, E. C., Okkerman, I., & Taormina, R. (2023). **<u>Deep learning for detecting macroplastic litter in water bodies: A review</u>**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2023.119632) <br>
 
-* **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). **Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation**. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
+* **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). **<u>Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation</u>**. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
 
-* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  **Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river**. Environmental Research: Water. [[PDF]](https://doi.org/10.1088/3033-4942/ae10d7)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
+* van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  **<u>Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river</u>**. Environmental Research: Water. [[PDF]](https://doi.org/10.1088/3033-4942/ae10d7)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 
-* Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  **Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering**. Water. [[PDF]](https://doi.org/10.3390/w17223316) <br>
+* Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  **<u>Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering</u>**. Water. [[PDF]](https://doi.org/10.3390/w17223316) <br>
 
-* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  **Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.121999) <br>
+* Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  **<u>Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective</u>**. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.121999) <br>
 
-* Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). **PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale**. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0) <br>
+* Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). **<u>PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale</u>**. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0) <br>
 
 
 <br>

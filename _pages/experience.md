@@ -23,7 +23,7 @@ author_profile: true
 - European Geosciences Union Member
 
 # Editor for Journals 
-- [Water & Ecology](https://www.sciencedirect.com/journal/water-and-ecology), Early Career Editor
+<!-- - [Water & Ecology](https://www.sciencedirect.com/journal/water-and-ecology), Early Career Editor -->
 - [Energy & Environment Nexus](https://www.maxapress.com/een), Early Career Editor
 - [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Editor for a special [issue](https://www.mdpi.com/journal/remotesensing/special_issues/2G7O0FUSLP) 
 

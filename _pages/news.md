@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Recent news
+- [01/2026] [Self-supervised learning for multi-label sewer defect classification](https://doi.org/10.1016/j.autcon.2025.106751) accepted to Automation in Construction
 - [10/2025] [A semi-supervised learning-based framework for quantifying litter fluxes in river systems](https://doi.org/10.1016/j.watres.2025.124833) accepted to Water Research
 - [10/2025] [Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river](https://doi.org/10.1088/3033-4942/ae10d7) accepted to Environmental Research: Water
 - [01/2025] [Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment](https://doi.org/10.1016/j.jenvman.2025.124268) accepted to Journal of Environmental Management

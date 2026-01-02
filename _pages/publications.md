@@ -23,6 +23,8 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 * **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). <u>Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation</u>. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
 
+* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. (2026). <u>Self-supervised learning for multi-label sewer defect classification</u>. Automation in Construction. [[PDF]](https://doi.org/10.1016/j.autcon.2025.106751)  [[Code]](https://github.com/tubayildizli/MultiLabel_SewerDefect_SSL) <br>
+
 * van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  <u>Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river</u>. Environmental Research: Water. [[PDF]](https://doi.org/10.1088/3033-4942/ae10d7)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 
 * Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  <u>Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering</u>. Water. [[PDF]](https://doi.org/10.3390/w17223316) <br>

@@ -11,7 +11,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <!-- ## 2020 -->
 1. **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). <u>A semi-supervised learning-based framework for quantifying litter fluxes in river systems</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
 
-1. **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  <u>Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment</u>. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
+2. **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  <u>Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment</u>. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
 
 3. **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  <u>Detecting floating litter in freshwater bodies with semi-supervised deep learning</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.122405)  [[Code]](https://github.com/TianlongJia/deep_plastic_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/eSAOALaTe4fm4nNgM0sVwQ) <br>
 
@@ -37,25 +37,25 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <br>
 
 # Conference papers or abstract
-* Ehret, U., Loritz, R., Bondy, J., Demuth, N., Dolich, A., Hollborn, S., **Jia, T.**, et al. <u>ML-based Flood Forecasting for Small Catchments in Germany: The KI-HOPE-DE project</u>, The 2025 Annual Meeting of the European Meteorological Society (EMS), Ljubljana, Slovenia, September 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EMS2025/EMS2025-686.html) <br>
+1. Ehret, U., Loritz, R., Bondy, J., Demuth, N., Dolich, A., Hollborn, S., **Jia, T.**, et al. <u>ML-based Flood Forecasting for Small Catchments in Germany: The KI-HOPE-DE project</u>, The 2025 Annual Meeting of the European Meteorological Society (EMS), Ljubljana, Slovenia, September 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EMS2025/EMS2025-686.html) <br>
 
-* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-supervised learning approach for automatic sewer defect detection</u>, 13th Urban Drainage Modelling Conference, Innsbruck, Austria, September, 2025. <br>
+2. Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-supervised learning approach for automatic sewer defect detection</u>, 13th Urban Drainage Modelling Conference, Innsbruck, Austria, September, 2025. <br>
 
-* **Jia, T.**, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. <u>Quantifying Floating Litter Fluxes with a Semi-Supervised Learning-Based Framework</u>, EGU25 (European Geosciences Union) Conference, Vienna, Austria, April 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EGU25/EGU25-12591.html) <br>
+3. **Jia, T.**, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. <u>Quantifying Floating Litter Fluxes with a Semi-Supervised Learning-Based Framework</u>, EGU25 (European Geosciences Union) Conference, Vienna, Austria, April 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EGU25/EGU25-12591.html) <br>
 
-* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-Supervised Learning Approach for Sewer Defect Detection</u>, 6th International Conference on Water Economics, Statistics and Finance and 10th Leading Edge Conference for Strategic Asset Management (LESAM), Pafos, Cyprus, April, 2025. [[Abstract]](https://easychair.org/smart-program/IWACyprus2025/2025-04-30.html#talk:277234) <br>
+4. Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-Supervised Learning Approach for Sewer Defect Detection</u>, 6th International Conference on Water Economics, Statistics and Finance and 10th Leading Edge Conference for Strategic Asset Management (LESAM), Pafos, Cyprus, April, 2025. [[Abstract]](https://easychair.org/smart-program/IWACyprus2025/2025-04-30.html#talk:277234) <br>
 
-* Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-supervised learning approach for automatic sewer defect detection</u>, 16th International Conference on Urban Drainage 2024, Delft, the Netherlands, June 2024. <br>
+5. Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-supervised learning approach for automatic sewer defect detection</u>, 16th International Conference on Urban Drainage 2024, Delft, the Netherlands, June 2024. <br>
 
-* **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>Detecting Floating Macroplastic Litter with Semi-Supervised Deep Learning</u>, EGU24 (European Geosciences Union) Conference, Vienna, Austria, April 2024. [[Abstract]](https://doi.org/10.5194/egusphere-egu24-9691) <br>
+6. **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>Detecting Floating Macroplastic Litter with Semi-Supervised Deep Learning</u>, EGU24 (European Geosciences Union) Conference, Vienna, Austria, April 2024. [[Abstract]](https://doi.org/10.5194/egusphere-egu24-9691) <br>
 
-* **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>Detecting Floating Macroplastic litter with Semi-supervised Deep Learning</u>, AGU23 (American Geophysical Union) Conference, San Francisco, CA, the United States, December 2023. [[Abstract]](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1260833) <br>
+7. **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>Detecting Floating Macroplastic litter with Semi-supervised Deep Learning</u>, AGU23 (American Geophysical Union) Conference, San Francisco, CA, the United States, December 2023. [[Abstract]](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1260833) <br>
 
-* Vallendar, A., **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>An open source dataset for Deep Learning-based visual detection of floating macroplastic litter</u>, EGU23 (European Geosciences Union) Conference, Vienna, Austria, April 2023. [[Abstract]](https://doi.org/10.5194/egusphere-egu23-12092) <br>
+8. Vallendar, A., **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>An open source dataset for Deep Learning-based visual detection of floating macroplastic litter</u>, EGU23 (European Geosciences Union) Conference, Vienna, Austria, April 2023. [[Abstract]](https://doi.org/10.5194/egusphere-egu23-12092) <br>
 
-* **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>A robust deep learning methodology to detect floating macro-plastic litter in rivers</u>, EGU22 (European Geosciences Union) Conference, Vienna, Austria, May 2022. [[Abstract]](https://doi.org/10.5194/egusphere-egu22-7423) <br>
+9. **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>A robust deep learning methodology to detect floating macro-plastic litter in rivers</u>, EGU22 (European Geosciences Union) Conference, Vienna, Austria, May 2022. [[Abstract]](https://doi.org/10.5194/egusphere-egu22-7423) <br>
 
-* **Jia T.**, Zhou J.*, & Liu X. <u>A daily power generation optimized operation method of hydropower stations with the navigation demands considered</u>, 1st International Symposium on Water System Operations, Beijing, China, 2018 [[Conference Paper]](https://doi.org/10.1051/matecconf/201824601065) <br>
+10. **Jia T.**, Zhou J.*, & Liu X. <u>A daily power generation optimized operation method of hydropower stations with the navigation demands considered</u>, 1st International Symposium on Water System Operations, Beijing, China, 2018 [[Conference Paper]](https://doi.org/10.1051/matecconf/201824601065) <br>
 
 *: corresponding author
 

@@ -11,7 +11,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <!-- ## 2020 -->
 1. **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). <u>A semi-supervised learning-based framework for quantifying litter fluxes in river systems</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
 
-2. **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  <u>Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment</u>. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
+1. **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  <u>Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment</u>. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
 
 3. **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  <u>Detecting floating litter in freshwater bodies with semi-supervised deep learning</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.122405)  [[Code]](https://github.com/TianlongJia/deep_plastic_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/eSAOALaTe4fm4nNgM0sVwQ) <br>
 

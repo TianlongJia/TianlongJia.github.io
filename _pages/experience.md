@@ -48,7 +48,7 @@ author_profile: true
 # Supervision of PhD and Master
 - Ph.D. Xiaole Xu (co-superviser)
 - M.Sc. Chuyue Zhang
-- M.Sc. Xinyao Lou (co-supervise)
+- M.Sc. Xinyao Lou (co-superviser)
 
 
 

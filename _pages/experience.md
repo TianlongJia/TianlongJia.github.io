@@ -46,10 +46,9 @@ author_profile: true
 - Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways, [link](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), [Video demo](https://www.youtube.com/watch?v=fNAS2q9GIws), A.J. Vallendar (2021)
 
 # Supervision of PhD and Master
-- Ph.D. Xiaole Xu (co-superviser)
+- Ph.D. Xiaole Xu
 - M.Sc. Chuyue Zhang
-- M.Sc. Xinyao Lou (co-superviser)
-
+- M.Sc. Xinyao Lou
 
 
 <!-- - Conference paper review: COTA -->

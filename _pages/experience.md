@@ -45,8 +45,10 @@ author_profile: true
 # Collaborations
 - Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways, [link](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), [Video demo](https://www.youtube.com/watch?v=fNAS2q9GIws), A.J. Vallendar (2021)
 
-# Supervision of Master Thesis
-- Chuyue Zhang (KIT)
+# Supervision of PhD and Master
+- PhD Xiaole Xu (HUST, co-supervise)
+- M.Sc. Xinyao Lou (ZJUT, co-supervise)
+- M.Sc. Chuyue Zhang (KIT)
 
 
 <!-- - Conference paper review: COTA -->

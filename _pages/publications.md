@@ -9,11 +9,11 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
-1. **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). <u>A semi-supervised learning-based framework for quantifying litter fluxes in river systems</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
+1. **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). <u>A semi-supervised learning-based framework for quantifying litter fluxes in river systems</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文导读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
 
 2. **Jia, T.**, Yu, J., Sun, A., Wu, Y., Zhang, S., & Peng, Z.* (2025).  <u>Semi-supervised learning-based identification of the attachment between sludge and microparticles in wastewater treatment</u>. Journal of Environmental Management. [[PDF]](https://doi.org/10.1016/j.jenvman.2025.124268)  [[Code]](https://github.com/TianlongJia/deep_pollutant_SSL) <br>
 
-3. **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  <u>Detecting floating litter in freshwater bodies with semi-supervised deep learning</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.122405)  [[Code]](https://github.com/TianlongJia/deep_plastic_SSL)  [[中文解读]](https://mp.weixin.qq.com/s/eSAOALaTe4fm4nNgM0sVwQ) <br>
+3. **Jia, T.***, de Vries, R., Kapelan, Z., van Emmerik, T. H. M., & Taormina, R. (2024).  <u>Detecting floating litter in freshwater bodies with semi-supervised deep learning</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.122405)  [[Code]](https://github.com/TianlongJia/deep_plastic_SSL)  [[中文导读]](https://mp.weixin.qq.com/s/eSAOALaTe4fm4nNgM0sVwQ) <br>
 
 4. **Jia, T.**, Peng, Z.*, Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024).  <u>Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method</u>. Science of The Total Environment. [[PDF]](https://doi.org/10.1016/j.scitotenv.2024.175813)  [[Code]](https://github.com/TianlongJia/deep_pollutant) <br>
 
@@ -23,7 +23,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 7. **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). <u>Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation</u>. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
 
-8. Yildizli, T.*, **Jia, T.**, Langeveld, J., & Taormina, R. (2026). <u>Self-supervised learning for multi-label sewer defect classification</u>. Automation in Construction. [[PDF]](https://doi.org/10.1016/j.autcon.2025.106751)  [[Code]](https://github.com/tubayildizli/MultiLabel_SewerDefect_SSL) [[中文解读]](https://mp.weixin.qq.com/s/YqB9Wwp7pbqhEGYPXeZOTg) <br>
+8. Yildizli, T.*, **Jia, T.**, Langeveld, J., & Taormina, R. (2026). <u>Self-supervised learning for multi-label sewer defect classification</u>. Automation in Construction. [[PDF]](https://doi.org/10.1016/j.autcon.2025.106751)  [[Code]](https://github.com/tubayildizli/MultiLabel_SewerDefect_SSL) [[中文导读]](https://mp.weixin.qq.com/s/YqB9Wwp7pbqhEGYPXeZOTg) <br>
 
 9. van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  <u>Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river</u>. Environmental Research: Water. [[PDF]](https://doi.org/10.1088/3033-4942/ae10d7)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 

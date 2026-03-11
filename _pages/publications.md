@@ -37,6 +37,8 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <br>
 
 # Conference papers or abstract
+1. Ehret, U., Loritz, R., Bondy, J., Demuth, N., Dolich, A., Hollborn, S., **Jia, T.**, et al. <u>AI-based flood forecasting in small catchment areas: KI-HopE-De and CAMELS-DE-1h</u>, Tag der Hydrologie 2026 (Hydrology Day 2026), Kassel, Germany, March 2026. [[Abstract]](https://www.uni-kassel.de/tagung-konferenz/files/2026/Tag-der-Hydrologie/Abstracts_alle_mit_titelblatt_online.pdf) <br>
+
 1. Ehret, U., Loritz, R., Bondy, J., Demuth, N., Dolich, A., Hollborn, S., **Jia, T.**, et al. <u>ML-based Flood Forecasting for Small Catchments in Germany: The KI-HOPE-DE project</u>, The 2025 Annual Meeting of the European Meteorological Society (EMS), Ljubljana, Slovenia, September 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EMS2025/EMS2025-686.html) <br>
 
 2. Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-supervised learning approach for automatic sewer defect detection</u>, 13th Urban Drainage Modelling Conference, Innsbruck, Austria, September, 2025. <br>

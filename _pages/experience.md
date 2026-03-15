@@ -46,6 +46,7 @@ author_profile: true
 - Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways, [link](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), [Video demo](https://www.youtube.com/watch?v=fNAS2q9GIws), A.J. Vallendar (2021)
 
 # Supervision of PhD and Master
+- PhD Xinyu Chang, Deep learning for streamflow prediction (2025.06-2026.03);
 - PhD Xiaole Xu, Deep learning for streamflow prediction and precipitation forecast correction;
 - MSc Chuyue Zhang, Deep learning for floating litter detection;
 - MSc Xinyao Lou, Deep learning for flood mapping;

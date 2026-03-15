@@ -7,6 +7,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Awards and fundings
+- 2026&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Poster Award for the “Most Innovative Study”, at Hydrology Day 2026 (co-author)
 - 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**[Lamminga funding](https://lammingafonds.nl/)** (€4,167)
 
 # Scholarship

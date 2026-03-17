@@ -26,7 +26,8 @@ author_profile: true
 # Editor for Journals 
 <!-- - [Water & Ecology](https://www.sciencedirect.com/journal/water-and-ecology), Early Career Editor -->
 - [Energy & Environment Nexus](https://www.maxapress.com/een), Early Career Editor
-- [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Editor for a special [issue](https://www.mdpi.com/journal/remotesensing/special_issues/2G7O0FUSLP) 
+- [Journal of Hydrology: Regional Studies](https://www.mdpi.com/journal/remotesensing), Guest Editor, [Special issue](https://www.sciencedirect.com/special-issue/331462/hydrological-change-and-water-extremes-under-climate-and-human-pressures-at-regional-scales) 
+- [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Guest Editor, [Special issue](https://www.mdpi.com/journal/remotesensing/special_issues/2G7O0FUSLP) 
 
 
 # Reviewer for Journals

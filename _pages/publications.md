@@ -37,6 +37,16 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 <br>
 
 # Conference papers or abstract
+1. **Jia, T.**, Chen, G., & Ehret, U. <u>Semi-Supervised Deep Learning for Streamflow Prediction in Data-scarce Regions</u>, EGU26 (European Geosciences Union) Conference, Vienna, Austria, May 2026. [[Abstract]](https://meetingorganizer.copernicus.org/EGU26/EGU26-8108.html) <br>
+
+1. Zhang, C., **Jia, T.**, Franca, M., Lofty, J., Rebai, D., & Ehret, U. <u>Vision-Language Models for Floating Litter Detection</u>, EGU26 (European Geosciences Union) Conference, Vienna, Austria, May 2026. [[Abstract]](https://meetingorganizer.copernicus.org/EGU26/EGU26-8285.html) <br>
+
+1. Chen, G., Chao, L., **Jia, T.**, & Wang, S. <u>Coupling Remote Sensing and Hydrological-Geotechnical Modeling for Rapid Assessment of Cascading Flood-Landslide Risks</u>, EGU26 (European Geosciences Union) Conference, Vienna, Austria, May 2026. [[Abstract]](https://meetingorganizer.copernicus.org/EGU26/EGU26-4339.html) <br>
+
+1. Hagenbeek, G., van Emmerik, T. H. M., **Jia, T.**, Khamdahsag, P., Boonma, K., Taormina, R., Mani, T., & Rußwurm, M. <u>Exploring Transferability of Plastic-Water Hyacinth Interaction and Detection in Rivers</u>, EGU26 (European Geosciences Union) Conference, Vienna, Austria, May 2026. [[Abstract]](https://meetingorganizer.copernicus.org/EGU26/EGU26-3434.html) <br>
+
+1. Chang, X., Guo, J., **Jia, T.**, Qin, H., & Liu, Y. <u>A stacking ensemble machine learning framework with terminal bias correction for flood prediction</u>, EGU26 (European Geosciences Union) Conference, Vienna, Austria, May 2026. [[Abstract]](https://meetingorganizer.copernicus.org/EGU26/EGU26-8326.html) <br>
+
 1. Dolich, A., Acuña Espinoza, E., **Jia, T.**, Perschke, M., Tilahun, M., et al. <u>AI-based flood forecasting in small catchment areas: KI-HopE-De and CAMELS-DE-1h</u>, Tag der Hydrologie 2026 (Hydrology Day 2026), Kassel, Germany, March 2026. [[Abstract]](https://www.uni-kassel.de/tagung-konferenz/files/2026/Tag-der-Hydrologie/Abstracts_alle_mit_titelblatt_online.pdf) <br>
 
 1. Ehret, U., Loritz, R., Bondy, J., Demuth, N., Dolich, A., Hollborn, S., **Jia, T.**, et al. <u>ML-based Flood Forecasting for Small Catchments in Germany: The KI-HOPE-DE project</u>, The 2025 Annual Meeting of the European Meteorological Society (EMS), Ljubljana, Slovenia, September 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EMS2025/EMS2025-686.html) <br>

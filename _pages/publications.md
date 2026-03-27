@@ -51,7 +51,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 1. Ehret, U., Loritz, R., Bondy, J., Demuth, N., Dolich, A., Hollborn, S., **Jia, T.**, et al. <u>ML-based Flood Forecasting for Small Catchments in Germany: The KI-HOPE-DE project</u>, The 2025 Annual Meeting of the European Meteorological Society (EMS), Ljubljana, Slovenia, September 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EMS2025/EMS2025-686.html) <br>
 
-2. Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-supervised learning approach for automatic sewer defect detection</u>, 13th Urban Drainage Modelling Conference, Innsbruck, Austria, September, 2025. <br>
+2. Yildizli, T., **Jia, T.**, Langeveld, J., & Taormina, R. <u>Self-supervised learning approach for automatic sewer defect detection</u>, 13th Urban Drainage Modelling Conference, Innsbruck, Austria, September, 2025. [[Abstract]](https://doi.org/10.71573/qqaxgx55)<br>
 
 3. **Jia, T.**, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. <u>Quantifying Floating Litter Fluxes with a Semi-Supervised Learning-Based Framework</u>, EGU25 (European Geosciences Union) Conference, Vienna, Austria, April 2025. [[Abstract]](https://meetingorganizer.copernicus.org/EGU25/EGU25-12591.html) <br>
 

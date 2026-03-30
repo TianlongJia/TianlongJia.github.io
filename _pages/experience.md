@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Academic Conferences & Forums
-- Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, *Invited report*
+- Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, <span style="color:blue;">Invited report</span> *Invited report*
 - Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum, *Invited report*
 - Apr. 2025: The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
 - Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria

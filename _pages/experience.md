@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Academic Conferences & Forums
-- Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, <span style="color:blue;">Invited report</span>
+- Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, <span style="color:#1f77b4;">Invited report</span>
 - Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum, <span style="color:blue;">Invited report</span>
 - Apr. 2025: The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
 - Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
@@ -16,7 +16,7 @@ author_profile: true
 - Dec. 2022: [1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment, <span style="color:blue;">Invited report</span>
 - Dec. 2022: Plastic research in the Netherlands: Perspectives on aquatic plastic monitoring (workshop), Wageningen, the Netherlands
 - May. 2022: The EGU General Assembly 2022 (EGU 2022), Vienna, Austria
-- Apr. 2019: Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China, <span style="color:blue;">Invited report</span>
+- Apr. 2019: Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China
 - Oct. 2018: 1st International Symposium on Water System Operations (ISWSO 2018), Beijing, China
 
 # Professional Membership

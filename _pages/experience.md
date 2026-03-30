@@ -8,8 +8,8 @@ author_profile: true
 # Academic Conferences & Forums
 - Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, <span style="color:#4daf4a;">Invited report</span>
 - Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum, <span style="color:#4daf4a;">Invited report</span>
-<!-- - Oct. 2025: Global Young Scholars Forum of Huazhong Agricultural University, Wuhan, China, <span style="color:#4daf4a;">Invited report</span>
-- Jul. 2025: Global Young Scholars Forum of Dalian University of Technology, Dalian, China, <span style="color:#4daf4a;">Invited report</span> -->
+<!-- - Oct. 2025: Global Young Scholars Forum of Huazhong Agricultural University, Wuhan, China, <span style="color:#4daf4a;">Invited report</span> -->
+<!-- - Jul. 2025: Global Young Scholars Forum of Dalian University of Technology, Dalian, China, <span style="color:#4daf4a;">Invited report</span> -->
 - Apr. 2025: The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
 - Apr. 2025: China (Ningbo)–Germany Young Scholars Networking Event, Ningbo, China, <span style="color:#4daf4a;">Invited report</span> at Eastern Institute of Technology (EIT), Ningbo
 <!-- - Nov. 2024: Global Young Scholars Forum of Sichuan University, Chengdu, China, <span style="color:#4daf4a;">Invited report</span> -->

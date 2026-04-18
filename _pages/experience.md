@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Academic Conferences & Forums
+- Apr. 2026: [7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
 - Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, <span style="color:#4daf4a;">Invited report</span>
 - Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum, <span style="color:#4daf4a;">Invited report</span>
 <!-- - Oct. 2025: Global Young Scholars Forum of Huazhong Agricultural University, Wuhan, China, <span style="color:#4daf4a;">Invited report</span> -->

@@ -16,7 +16,7 @@ author_profile: true
 
 # Media
 - [04/2026] Our KI-HopE-De project was featured in the 2025 edition of <span style="color:#4daf4a;">KIT NEULAND Magazine</span> in the article “The Whisper of Rivers”, highlighting our work on AI-based flood forecasting for small catchments in Germany. [[Link]](https://kit-neuland.de/en/blog/das-fluestern-der-fluesse/) [[PDF]](https://kit-neuland.de/fileadmin/PDFs/8437_NEULAND_Magazin_2025_EN_WEB.pdf)
-- [01/2023] Parts of my PhD work is featured in a project video by NORIA on YouTube, titled “Monitoring Protocol to Prevent Plastic Pollution at Waddenzee | Stop Plastic from City to Wad”, highlighting my work on plastic pollution monitoring in river systems. [[Link]](https://www.youtube.com/watch?v=IEi9sZIuyOc)
+- [01/2023] Parts of my PhD work is featured in a project video by NORIA on YouTube, titled “Monitoring Protocol to Prevent Plastic Pollution at Waddenzee: Stop Plastic from City to Wad”, highlighting my work on plastic pollution monitoring in river systems. [[Link]](https://www.youtube.com/watch?v=IEi9sZIuyOc)
 
 
 # Teaching and Tutorials

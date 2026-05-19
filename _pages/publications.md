@@ -9,7 +9,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 # Journal Papers
 <!-- ## 2020 -->
-1. **Jia, T.\***, Chen, G.\*, Li, Y., Chang, X., & Ehret, U. (2026). <u>Streamflow prediction in data-scarce regions with semi-supervised deep learning</u>. EGUsphere, 2026, 1-37. [[Pre-print]](https://doi.org/10.5194/egusphere-2026-1637) <br>
+1. **Jia, T.\***, Chen, G.\*, Li, Y., Chang, X., & Ehret, U. (2026). <u>Streamflow prediction in data-scarce regions with semi-supervised deep learning</u>. EGUsphere, 2026, 1-37. [[Preprint]](https://doi.org/10.5194/egusphere-2026-1637) <br>
 
 2. **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). <u>A semi-supervised learning-based framework for quantifying litter fluxes in river systems</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文导读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
 

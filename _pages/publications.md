@@ -36,6 +36,8 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 13. Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). <u>PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale</u>. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0) <br>
 
 
+*: corresponding author
+
 <br>
 
 # Conference papers or abstract
@@ -71,7 +73,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 10. **Jia T.**, Zhou J.*, & Liu X. <u>A daily power generation optimized operation method of hydropower stations with the navigation demands considered</u>, 1st International Symposium on Water System Operations, Beijing, China, 2018 [[Conference Paper]](https://doi.org/10.1051/matecconf/201824601065) <br>
 
-*: corresponding author
+
 
 # Doctoral Thesis
 Jia, T. (2025). [**Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments**](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e), Dissertation (TU Delft), Delft University of Technology.

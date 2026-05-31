@@ -33,7 +33,7 @@ author_profile: true
 # Editorial Roles and Conferences Organization 
 - [Energy & Environment Nexus](https://www.maxapress.com/een), Early Career Editor
 - [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Guest Editor, [Special issue](https://www.mdpi.com/journal/remotesensing/special_issues/2G7O0FUSLP)
-- Co-chair of the Session “Watershed and Urban Hydrology”, the 6th Hydro90 Young Hydrologists Symposium, May 30-31, 2026. [[Link](https://mp.weixin.qq.com/s/nFvd0KnnSgdzQGdE87xRFQ?scene=1)]
+- Co-chair of the Session “Watershed and Urban Hydrology”, the 6th Hydro90 Young Hydrologists Symposium, May 30-31, 2026. [[Link]](https://mp.weixin.qq.com/s/nFvd0KnnSgdzQGdE87xRFQ?scene=1)
 
 
 # Journal Reviewers

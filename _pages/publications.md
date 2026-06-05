@@ -25,15 +25,17 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 8. **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). <u>Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation</u>. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
 
-9. Yildizli, T.*, **Jia, T.**, Langeveld, J., & Taormina, R. (2026). <u>Self-supervised learning for multi-label sewer defect classification</u>. Automation in Construction. [[PDF]](https://doi.org/10.1016/j.autcon.2025.106751)  [[Code]](https://github.com/tubayildizli/MultiLabel_SewerDefect_SSL) [[中文导读]](https://mp.weixin.qq.com/s/YqB9Wwp7pbqhEGYPXeZOTg) <br>
+9. Hagenbeek, G., van Emmerik, T. H. M., **Jia, T.**, Khamdahsag, P., Boonma, K., Taormina, R., Mani, T., & Rußwurm, M.  (2026). <u>Exploring transferability of plastic-water hyacinth interaction and detection in rivers. [[PDF]](https://doi.org/10.1016/j.isci.2026.116238)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 
-10. van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  <u>Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river</u>. Environmental Research: Water. [[PDF]](https://doi.org/10.1088/3033-4942/ae10d7)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
+10. Yildizli, T.*, **Jia, T.**, Langeveld, J., & Taormina, R. (2026). <u>Self-supervised learning for multi-label sewer defect classification</u>. Automation in Construction. [[PDF]](https://doi.org/10.1016/j.autcon.2025.106751)  [[Code]](https://github.com/tubayildizli/MultiLabel_SewerDefect_SSL) [[中文导读]](https://mp.weixin.qq.com/s/YqB9Wwp7pbqhEGYPXeZOTg) <br>
 
-11. Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  <u>Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering</u>. Water. [[PDF]](https://doi.org/10.3390/w17223316) <br>
+11. van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  <u>Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river</u>. Environmental Research: Water. [[PDF]](https://doi.org/10.1088/3033-4942/ae10d7)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 
-12. Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  <u>Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.121999) <br>
+12. Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  <u>Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering</u>. Water. [[PDF]](https://doi.org/10.3390/w17223316) <br>
 
-13. Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). <u>PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale</u>. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0) <br>
+13. Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  <u>Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.121999) <br>
+
+14. Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). <u>PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale</u>. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0) <br>
 
 
 *: corresponding author

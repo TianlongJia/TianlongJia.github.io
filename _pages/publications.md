@@ -25,7 +25,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 8. **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). <u>Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation</u>. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
 
-9. Hagenbeek, G., van Emmerik, T. H. M., **Jia, T.**, Khamdahsag, P., Boonma, K., Taormina, R., Mani, T., & Rußwurm, M.  (2026). <u>Exploring transferability of plastic-water hyacinth interaction and detection in rivers</u>. [[PDF]](https://doi.org/10.1016/j.isci.2026.116238) [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
+9. Hagenbeek, G.\*, van Emmerik, T. H. M.\*, **Jia, T.**, Khamdahsag, P., Boonma, K., Taormina, R., Mani, T., & Rußwurm, M.  (2026). <u>Exploring transferability of plastic-water hyacinth interaction and detection in rivers</u>. [[PDF]](https://doi.org/10.1016/j.isci.2026.116238) [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 
 10. Yildizli, T.*, **Jia, T.**, Langeveld, J., & Taormina, R. (2026). <u>Self-supervised learning for multi-label sewer defect classification</u>. Automation in Construction. [[PDF]](https://doi.org/10.1016/j.autcon.2025.106751)  [[Code]](https://github.com/tubayildizli/MultiLabel_SewerDefect_SSL) [[中文导读]](https://mp.weixin.qq.com/s/YqB9Wwp7pbqhEGYPXeZOTg) <br>
 

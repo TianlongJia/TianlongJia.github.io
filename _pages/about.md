@@ -18,22 +18,20 @@ Research Interests
 My primary research interests are in emerging problems related to environment monitoring, smart water management, and artificial intelligence research, including: 
 
 - **Artificial Intelligence (AI)**
-    - Deep learning, and machine learning
-    - Unsupervised learning, and semi-supervised learning
+    - Deep learning
     - Self-supervised learning, and contrastive learning
+    - Vision-Language Model (VLM), and Large Language Model (LLM)
     - Time series forecasting
-    - Computer vision (e.g., image classification, object detection, and image segmentation)
-    - Transfer learning
-    - Explainable AI
+    - Computer vision
 - **Smart water management**
-    - Flood forecasting
-    - Optimal operation of hydropower reservoirs
-    - Multi-objective optimization
-    - Genetic Algorithm
+    - Flood forecasting in watersheds
+    - Urban flood detection
+    - Optimal operation of hydropower reservoirs (Multi-objective optimization)
     - Hydroinformatics
     - Hydrodynamic simulation
 - **Environment monitoring**
     - Floating macroplastics monitoring
+    - Water quality prediction in watersheds
     - Earth observation
     - Remote sensing
 

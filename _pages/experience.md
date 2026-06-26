@@ -55,9 +55,10 @@ author_profile: true
 # Supervision of PhD and Master
 - PhD Xinyu Chang, Deep learning for streamflow prediction (co-supervise, 2025.06-2026.03);
 - PhD Xiaole Xu, Deep learning for streamflow prediction and precipitation forecast correction (co-supervise);
-- MSc Chuyue Zhang, Deep learning for floating litter detection;
+- MSc Chuyue Zhang, Deep learning for floating litter detection (2025.12-2026.06);
+- MSc Zeyu Lan, Deep learning for floating litter detection;
+- MSc Yuxin Li, Deep learning for water quality prediction;
 - MSc Xinyao Lou, Deep learning for flood mapping (co-supervise);
-
 
 <!-- - Conference paper review: COTA -->
 

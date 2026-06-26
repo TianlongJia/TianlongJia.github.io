@@ -15,18 +15,19 @@ My official webpage is [here](https://www.iwu.kit.edu/hyd/english/Staff_1391.php
 
 Research Interests
 ======
-My primary research interests are in emerging problems related to environment monitoring, smart water management, and artificial intelligence research, including: 
+My primary research interests are in emerging problems related to smart water management, environment monitoring, and artificial intelligence research, including: 
 
 - **Artificial Intelligence (AI)**
     - Deep learning
     - Self-supervised learning, and contrastive learning
     - Vision-Language Model (VLM), and Large Language Model (LLM)
+    - Foundation Model
     - Time series forecasting
     - Computer vision
 - **Smart water management**
     - Flood forecasting in watersheds
     - Urban flood detection
-    - Optimal operation of hydropower reservoirs (Multi-objective optimization)
+    - Optimal operation of hydropower reservoirs
     - Hydroinformatics
     - Hydrodynamic simulation
 - **Environment monitoring**

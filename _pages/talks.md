@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 # Talks and Presentations
-- Deep learning-based riverine floating litter detection and quantification, [[Presentation Video](https://www.bilibili.com/video/BV14qmWBwEEU/?vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
+- Deep learning-based riverine floating litter detection and quantification, [[Presentation Video](https://www.bilibili.com/video/BV1737t6nEWJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
 
 
 # Posters
@@ -20,7 +20,8 @@ author_profile: true
 
 
 # Teaching and Tutorials
-- LaTeX in Overleaf for Scientific Writing, Workshop for Graduate Students, [[Video](https://www.bilibili.com/video/BV1JXNGzPE7d/?vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
+- LaTeX in Overleaf for Scientific Writing, Workshop for Graduate Students, [[Video](https://www.bilibili.com/video/BV14X746YENA/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
+- How to use cluster/supercomputer for research? Workshop for Graduate Students, [[Video](https://www.bilibili.com/video/BV1KY7t6KEXD/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
 
 
 # PhD defense

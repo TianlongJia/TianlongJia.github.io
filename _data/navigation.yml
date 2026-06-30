@@ -14,6 +14,9 @@ main:
   
   - title: "Awards"
     url: /Awards/  
+
+  - title: "Thesis Supervision"
+    url: /Thesis Supervision/  
     
 
   # - title: "Talks"

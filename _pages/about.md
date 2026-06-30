@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am working as a Postdoctoral researcher at [Institute of Water and Environment (IWU)](https://www.iwu.kit.edu/hyd/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/), Germany. My research focuses on artificial intelligence(AI)-based flood prediction in small river basins in Germany, as part of the project [KI-HopE-De](https://ki-hope.de/). Prior to joining the KIT, I worked as a PhD with the team of [AidroLab](https://www.tudelft.nl/ai/aidrolab) at [Delft University of Technology (TUD)](https://www.tudelft.nl/), the Netherlands. My PhD research focus on AI-based detection and quantification of floating macroplastic litter in rivers.
+I am working as a Postdoctoral researcher at [Institute of Water and Environment (IWU)](https://www.iwu.kit.edu/hyd/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/), Germany. My research focuses on artificial intelligence(AI), hydrology, water resources, and water environment.
 
 My official webpage is [here](https://www.iwu.kit.edu/hyd/english/Staff_1391.php).
 
+<div style="background-color:#e6f0ff; padding:15px; border-radius:8px;">
+<b>If you are a master student/intern hunting at KIT for a topic about AI in hydrology, water management or environment monitoring, I am glad to have a discussion/talk with you about a potential idea.</b>
+</div>
 
 Research Interests
 ======
@@ -24,13 +27,13 @@ My primary research interests are in emerging problems related to smart water ma
     - Foundation Model
     - Time series forecasting
     - Computer vision
-- **Smart water management**
+- **Hydrology and water resources**
     - Flood forecasting in watersheds
     - Urban flood detection
     - Optimal operation of hydropower reservoirs
     - Hydroinformatics
     - Hydrodynamic simulation
-- **Environment monitoring**
+- **Water environment monitoring**
     - Floating macroplastics monitoring
     - Water quality prediction in watersheds
     - Earth observation
@@ -67,9 +70,7 @@ Education
 
 **I am always open to collaborations and interesting conversations, and can be best reached by email.**
 
-<div style="background-color:#e6f0ff; padding:15px; border-radius:8px;">
-If you are a master student/intern hunting at KIT for a topic about AI in hydrology, water management or environment monitoring, I am glad to have a discussion/talk with you about a potential idea.
-</div>
+
 
 <!-- A data-driven personal website
 ======

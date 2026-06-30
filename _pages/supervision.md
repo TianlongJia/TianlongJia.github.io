@@ -12,9 +12,9 @@ author_profile: true
 
 # Past and Ongoing Thesis Supervision
 
-1. PhD Xinyu Chang, Thesis: *Deep learning for streamflow prediction* (co-supervise, 2025.06-2026.03)<br>
+1. PhD Xinyu Chang, Research: *Deep learning for streamflow prediction* (co-supervise, 2025.06-2026.03)<br>
 
-2. PhD Xiaole Xu, Thesis: *Deep learning for streamflow prediction and precipitation forecast correction* (co-supervise)<br>
+2. PhD Xiaole Xu, Research: *Deep learning for streamflow prediction and precipitation forecast correction* (co-supervise)<br>
 
 3. MSc Chuyue Zhang, Thesis: *Vision-Language Models for floating litter detection* (2025.12-2026.06) <br>
 

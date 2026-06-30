@@ -67,7 +67,9 @@ Education
 
 **I am always open to collaborations and interesting conversations, and can be best reached by email.**
 
+<div style="background-color:#e6f0ff; padding:15px; border-radius:8px;">
 If you are a master student/intern hunting at KIT for a topic about AI in hydrology, water management or environment monitoring, I am glad to have a discussion/talk with you about a potential idea.
+</div>
 
 <!-- A data-driven personal website
 ======

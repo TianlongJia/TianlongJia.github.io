@@ -35,6 +35,6 @@ More tutorials can be found in my [Bilibili Channel](https://space.bilibili.com/
 Our research group regularly publishes free tutorials on scientific writing, programming, the use of our research code, and other research skills. Visit my channel:
 
 <a href="https://space.bilibili.com/305925157?spm_id_from=333.337.0.0" target="_blank">
-  <img src="/images/bilibili.svg" alt="Bilibili" width="24" style="vertical-align:middle; margin-right:8px;">
+  <img src="/images/bilibili.svg" alt="Bilibili" width="22" style="vertical-align:middle; margin-right:8px;">
   <strong>Bilibili Channel (科研分享)</strong>
 </a>

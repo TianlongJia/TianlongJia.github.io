@@ -14,7 +14,7 @@ My official webpage is [here](https://www.iwu.kit.edu/hyd/english/Staff_1391.php
 
 <div style="background-color:#e6f0ff; padding:15px; border-radius:8px;">
 <b>If you are a master student/intern hunting at KIT for a topic about AI in hydrology, water management or environment monitoring, I am glad to have a discussion/talk with you about a potential idea.</b>
-</div>
+</div><br>
 
 Research Interests
 ======
@@ -61,7 +61,6 @@ Education
 - **[Harbin Engineering University](https://english.hrbeu.edu.cn) (2013-2017)**
     - B.S., College of Shipbuilding Engineering, China
     - Focus: Port & Waterway and Coastal Engineering
-    - Supervisor: Sulian Zhou
 
 
 **Contact**

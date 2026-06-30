@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Recent news
+- [06/2026] My MSc studnet, **Chuyue Zhang**, finished her thesis and defense at KIT, Thesis title: Vision-Language Models for floating litter detection (2025.12-2026.06)
 - [06/2026] [Exploring transferability of plastic-water hyacinth interaction and detection in rivers](https://doi.org/10.1016/j.isci.2026.116238) accepted to iScience
 - [04/2026] Our KI-HopE-De project was featured in the 2025 edition of <span style="color:#4daf4a;">KIT NEULAND Magazine</span> in the article “The Whisper of Rivers”, highlighting our work on AI-based flood forecasting for small catchments in Germany. [[Link]](https://kit-neuland.de/en/blog/das-fluestern-der-fluesse/) [[PDF]](https://kit-neuland.de/fileadmin/PDFs/8437_NEULAND_Magazin_2025_EN_WEB.pdf)
 - [03/2026] Our KI-HOPE project poster received the Poster Award for the “Most Innovative Study”, at Tag der Hydrologie 2026 (Hydrology Day 2026)

@@ -51,7 +51,7 @@ Education
 - **[Delft University of Technology (TUD)](https://www.tudelft.nl/) (2020-2025)**
     - Ph.D., [AidroLab](https://www.tudelft.nl/ai/aidrolab), AI for sustainable water management, the Netherlands
     - Focus: Artificial Intelligence and Environment monitoring
-    - Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/prof-dr-zoran-kapelan), and Rinze de Vries
+    - Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/staff/z.kapelan/), and Rinze de Vries
 
 - **[Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2017-2020)**
     - M.Sc., School of Hydropower and Information Engineering, China

@@ -28,7 +28,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 ## Other authors
 
-9. Yang, Q., Qiu, S., ..., **Jia, T.**, Shan, B., & Michele, C. D. (2026). <u>HydroAgent: Formalizing Forecaster Expertise into Skill-Orchestrated Flood Forecasting Workflows</u>. arXiv:2607.23983. [[Preprint]](https://doi.org/10.48550/arXiv.2607.23983) <br>
+9. Yang, Q., Qiu, S., ..., **Jia, T.**, Shan, B.\*, & Michele, C. D. (2026). <u>HydroAgent: formalizing forecaster expertise into skill-orchestrated flood forecasting workflows</u>. arXiv:2607.23983. [[Preprint]](https://doi.org/10.48550/arXiv.2607.23983) <br>
 
 
 9. Hagenbeek, G.\*, van Emmerik, T. H. M.\*, **Jia, T.**, Khamdahsag, P., Boonma, K., Taormina, R., Mani, T., & Rußwurm, M. (2026). <u>Exploring transferability of plastic-water hyacinth interaction and detection in rivers</u>. iScience. [[PDF]](https://doi.org/10.1016/j.isci.2026.116238) [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>

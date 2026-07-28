@@ -8,7 +8,8 @@ author_profile: true
 You can also find my papers in [my Google Scholar](https://scholar.google.com.hk/citations?user=3L04RecAAAAJ&hl=zh-CN). <br>
 
 # Journal Papers
-<!-- ## 2020 -->
+## First author
+
 1. **Jia, T.\***, Chen, G.\*, Li, Y., Chang, X., & Ehret, U. (2026). <u>Streamflow prediction in data-scarce regions with semi-supervised deep learning</u>. EGUsphere, 2026, 1-37. [[Preprint]](https://doi.org/10.5194/egusphere-2026-1637) <br>
 
 2. **Jia, T.***, Taormina, R., de Vries, R., Kapelan, Z., van Emmerik, T. H. M., Vriend, P., & Okkerman, I. (2025). <u>A semi-supervised learning-based framework for quantifying litter fluxes in river systems</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2025.124833)  [[Code]](https://github.com/TianlongJia/deep_plastic_Flux_SSL)  [[中文导读]](https://mp.weixin.qq.com/s/miwYLR1pN6T9IOjn_RSXaQ) <br>
@@ -25,7 +26,12 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 8. **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). <u>Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation</u>. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
 
-9. Hagenbeek, G.\*, van Emmerik, T. H. M.\*, **Jia, T.**, Khamdahsag, P., Boonma, K., Taormina, R., Mani, T., & Rußwurm, M.  (2026). <u>Exploring transferability of plastic-water hyacinth interaction and detection in rivers</u>. iScience. [[PDF]](https://doi.org/10.1016/j.isci.2026.116238) [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
+## Other authors
+
+9. Yang, Q., Qiu, S., ..., **Jia, T.**, Shan, B., & Michele, C. D. (2026). <u>HydroAgent: Formalizing Forecaster Expertise into Skill-Orchestrated Flood Forecasting Workflows</u>. iScience. [[Preprint]](https://doi.org/10.48550/arXiv.2607.23983) <br>
+
+
+9. Hagenbeek, G.\*, van Emmerik, T. H. M.\*, **Jia, T.**, Khamdahsag, P., Boonma, K., Taormina, R., Mani, T., & Rußwurm, M. (2026). <u>Exploring transferability of plastic-water hyacinth interaction and detection in rivers</u>. iScience. [[PDF]](https://doi.org/10.1016/j.isci.2026.116238) [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 
 10. Yildizli, T.*, **Jia, T.**, Langeveld, J., & Taormina, R. (2026). <u>Self-supervised learning for multi-label sewer defect classification</u>. Automation in Construction. [[PDF]](https://doi.org/10.1016/j.autcon.2025.106751)  [[Code]](https://github.com/tubayildizli/MultiLabel_SewerDefect_SSL) [[中文导读]](https://mp.weixin.qq.com/s/YqB9Wwp7pbqhEGYPXeZOTg) <br>
 

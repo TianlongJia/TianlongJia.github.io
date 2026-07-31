@@ -12,19 +12,19 @@ author_profile: true
 
 # Past and Ongoing Thesis Supervision
 
-1. PhD Xinyu Chang, Research: <u>Deep learning for streamflow prediction</u> (co-supervise, 2025.06-2026.03)<br>
+1. PhD Xinyu Chang, Research topic: <u>AI-based streamflow prediction</u> (co-supervise, 2025.06-2026.03)<br>
 
-2. PhD Xiaole Xu, Research: <u>Deep learning for streamflow prediction and precipitation forecast correction</u> (co-supervise)<br>
+2. PhD Xiaole Xu, Research topic: <u>AI-based streamflow prediction and precipitation forecast correction</u> (co-supervise)<br>
 
 3. MSc Chuyue Zhang, Thesis: <u>Vision-Language Models for floating litter detection</u> (2025.12-2026.06) <br>
 
-4. MSc Zeyu Lan, Thesis: <u>Deep learning for floating litter detection</u> <br>
+4. MSc Zeyu Lan, Thesis: <u>AI-based floating litter detection</u> <br>
 
-5. MSc Yuxin Li, Thesis: <u>Deep learning for water quality prediction</u> <br>
+5. MSc Yuxin Li, Thesis: <u>AI-based water quality prediction</u> <br>
 
-6. MSc Xinyao Lou, Thesis: <u>Deep learning for flood mapping</u> (co-supervise) <br>
+6. MSc Xinyao Lou, Thesis: <u>AI-based flood mapping</u> (co-supervise) <br>
 
-
+7. B.S. Tuo Shi, Research topic: <u>AI-based sewer defect detection</u> (co-supervise) <br>
 
 
 # Thesis collaboration

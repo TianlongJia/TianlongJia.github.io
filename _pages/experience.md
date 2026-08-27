@@ -6,7 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 # Academic Conferences & Forums
-- Aug. 2026: [23rd China Water Forum](https://mps2026.casconf.cn/), Harbin, China
+- Sep. 2026: [5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), <span style="color:#4daf4a;">Invited report</span>
+- Aug. 2026: [23rd China Water Forum](http://www.waterscience.cn/WRC/waterforum/), Harbin, China
 - May. 2026: The EGU General Assembly 2026 (EGU 2026), Vienna, Austria
 - Apr. 2026: [7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
 - Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, <span style="color:#4daf4a;">Invited report</span>

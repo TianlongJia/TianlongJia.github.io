@@ -106,7 +106,7 @@ Jia, T. (2025). [**Deep learning-based Methods for Detecting and Quantifying flo
 - Detection of the interaction between particles and biomass in biological wastewater treatment process with deep learning
   - The TU Delft-Interaction between Particles and Biomass dataset (with annotations for instance segmentation tasks) [[Link]](https://doi.org/10.5281/zenodo.13374998) [[Paper]](https://doi.org/10.1016/j.scitotenv.2024.175813)
 
-More datasets and software can be found in HydroAI Lab zenodo [repository](https://zenodo.org/communities/hydro_ai_lab/records?q=&l=list&p=1&s=10&sort=newest)
+More datasets and software can be found in [Zenodo repository](https://zenodo.org/communities/hydro_ai_lab/records?q=&l=list&p=1&s=10&sort=newest)
 
 <!-- # Presentations -->
 

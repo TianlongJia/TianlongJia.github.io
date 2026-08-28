@@ -32,9 +32,11 @@ More tutorials can be found in my [Bilibili Channel](https://space.bilibili.com/
 
 # Research sharing
 
-Our research group regularly publishes free tutorials on scientific writing, programming, the use of our research code, and other research skills. Visit my channel:
+Our research group regularly publishes free tutorials on scientific writing, programming, the use of our research code, and other research skills. Visit my channel and zenodo repository:
 
 <a href="https://space.bilibili.com/305925157?spm_id_from=333.337.0.0" target="_blank">
   <img src="/images/bilibili.svg" alt="Bilibili" width="22" style="vertical-align:middle; margin-right:8px;">
   <strong>Bilibili Channel (科研分享)</strong>
 </a>
+
+[Zenodo repository](https://zenodo.org/communities/hydro_ai_lab/records?q=&l=list&p=1&s=10&sort=newest)

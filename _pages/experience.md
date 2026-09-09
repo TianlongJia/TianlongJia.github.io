@@ -35,6 +35,7 @@ author_profile: true
 
 # Editorial Roles
 - [Energy & Environment Nexus](https://www.maxapress.com/een), Early Career Editor
+- [The Innovation: Water](https://www.the-innovation.org/the-innovation-water), Early Career Editor
 - [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Guest Editor, [Special issue](https://www.mdpi.com/journal/remotesensing/special_issues/2G7O0FUSLP)
 
 

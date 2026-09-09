@@ -5,25 +5,28 @@ permalink: /experience/
 author_profile: true
 ---
 {% include base_path %}
+
+# Invited talks
+- Sep. 2026: [5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english)
+- Apr. 2026: [7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
+- Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health
+- Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum
+- Dec. 2023: Global Young Scholars Forum of Sichuan University, Chengdu, China
+- Dec. 2023: [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
+- Apr. 2023: The EGU General Assembly 2023 (EGU 2023), Vienna, Austria
+- Dec. 2022: [1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
+
 # Academic Conferences & Forums
-- Sep. 2026: [5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), <span style="color:#4daf4a;">Invited report</span>
 - Aug. 2026: [23rd China Water Forum](http://www.waterscience.cn/WRC/waterforum/), Harbin, China
 - May. 2026: The EGU General Assembly 2026 (EGU 2026), Vienna, Austria
-- Apr. 2026: [7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
-- Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health, <span style="color:#4daf4a;">Invited report</span>
-- Dec. 2025: Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum, <span style="color:#4daf4a;">Invited report</span>
 <!-- - Oct. 2025: Global Young Scholars Forum of Huazhong Agricultural University, Wuhan, China, <span style="color:#4daf4a;">Invited report</span> -->
 <!-- - Jul. 2025: Global Young Scholars Forum of Dalian University of Technology, Dalian, China, <span style="color:#4daf4a;">Invited report</span> -->
 - Apr. 2025: The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
-- Apr. 2025: China (Ningbo)–Germany Young Scholars Networking Event, Ningbo, China, <span style="color:#4daf4a;">Invited report</span> at Eastern Institute of Technology (EIT), Ningbo
+- Apr. 2025: China (Ningbo)–Germany Young Scholars Networking Event, Ningbo, China
 <!-- - Nov. 2024: Global Young Scholars Forum of Sichuan University, Chengdu, China, <span style="color:#4daf4a;">Invited report</span> -->
 <!-- - Nov. 2024: Global Young Scholars Forum of Hangzhou Dianzi University, Hangzhou, China, <span style="color:#4daf4a;">Invited report</span> -->
 - Apr. 2024: The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
 - Dec. 2023: American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
-- Dec. 2023: Global Young Scholars Forum of Sichuan University, Chengdu, China, <span style="color:#4daf4a;">Invited report</span>
-- Dec. 2023: [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment, <span style="color:#4daf4a;">Invited report</span>
-- Apr. 2023: The EGU General Assembly 2023 (EGU 2023), Vienna, Austria
-- Dec. 2022: [1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment, <span style="color:#4daf4a;">Invited report</span>
 - Dec. 2022: Plastic research in the Netherlands: Perspectives on aquatic plastic monitoring (workshop), Wageningen, the Netherlands
 - May. 2022: The EGU General Assembly 2022 (EGU 2022), Vienna, Austria
 - Apr. 2019: Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China

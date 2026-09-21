@@ -51,12 +51,12 @@ Projects
   <div style="flex:1;">
     <p><strong>2025.03–now</strong><br>
     <strong>Postdoctoral researcher</strong><br>
-    Information-based Hydrology group, Institute of Water and Environment (IWU)<br>
+    Information-based Hydrology group, Institute of Water and Environment<br>
     Karlsruhe Institute of Technology (KIT), Germany<br>
     Host: Dr. Uwe Ehret</p>
   </div>
   <div style="margin-left:22px;">
-    <img src="images/KIT.jpg" alt="photo" width="220" style="border-radius:8px;">
+    <img src="images/KIT.jpg" alt="photo" width="160" style="border-radius:8px;">
   </div>
 </div>
 

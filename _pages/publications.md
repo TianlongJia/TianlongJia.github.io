@@ -88,30 +88,3 @@ Other papers
 9. **Jia, T.**, de Vries, R., Kapelan, Z., & Taormina, R. <u>A robust deep learning methodology to detect floating macro-plastic litter in rivers</u>, EGU22 (European Geosciences Union) Conference, Vienna, Austria, May 2022. [[Abstract]](https://doi.org/10.5194/egusphere-egu22-7423) <br>
 
 10. **Jia T.**, Zhou J.*, & Liu X. <u>A daily power generation optimized operation method of hydropower stations with the navigation demands considered</u>, 1st International Symposium on Water System Operations, Beijing, China, 2018 [[Conference Paper]](https://doi.org/10.1051/matecconf/201824601065) <br>
-
-
-
-# Datasets
-- Detection of floating litter in freshwater bodies using deep learning
-  - The TU Delft-Green Village dataset (with labels for image classification tasks) [[Link]](https://doi.org/10.5281/zenodo.7636124) [[Paper]](https://doi.org/10.3389/frwa.2023.1298465)
-  
-  - The TU Delft-Green Village dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.5281/zenodo.13730228) [[Paper]](https://doi.org/10.1016/j.watres.2024.122405)
-
-  - The Oostpoort dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.5281/zenodo.13730298) [[Paper]](https://doi.org/10.1016/j.watres.2024.122405)
-
-  - The Amsterdam dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.5281/zenodo.13730370) [[Paper]](https://doi.org/10.1016/j.watres.2024.122405)
-
-  - The Groningen dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.5281/zenodo.13730384) [[Paper]](https://doi.org/10.1016/j.watres.2024.122405)
-
-  - The Wageningen UR-Ho Chi Minh City dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.4121/78bb4822-7b70-4632-887a-7cacd344024e) [[Paper]](https://doi.org/10.1088/3033-4942/ae10d7)
-
-  - The TU Delft - Ho Chi Minh City dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.5281/zenodo.17387612)
-
-
-- Detection of the interaction between particles and biomass in biological wastewater treatment process with deep learning
-  - The TU Delft-Interaction between Particles and Biomass dataset (with annotations for instance segmentation tasks) [[Link]](https://doi.org/10.5281/zenodo.13374998) [[Paper]](https://doi.org/10.1016/j.scitotenv.2024.175813)
-
-More datasets and software can be found in [Zenodo repository](https://zenodo.org/communities/hydro_ai_lab/records?q=&l=list&p=1&s=10&sort=newest)
-
-<!-- # Presentations -->
-

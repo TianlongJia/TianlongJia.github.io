@@ -45,6 +45,20 @@ Projects
 - AI-based detecting and quantification of floating macroplastic litter in rivers and urban waterways in the Netherlands, funded by TUD and [Ministry of Infrastructure and Water Management (RWS)](https://www.rijkswaterstaat.nl/en) (2020-2025)
 - Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html) (2017–2020)
 
+# 📖 Educations
+<span id="education"></span>
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2019.09–2023.07</strong><br>
+    <strong>Doctor of Philosophy in Maritime and Transport Technology</strong><br>
+    Delft University of Technology, the Netherlands<br>
+    Supervisor: Prof. Rudy R. Negenborn, Dr. Xiaoli Jiang</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/HEU.png" alt="photo" width="160" style="border-radius:8px;">
+  </div>
+</div>
+
 
 Education
 ======

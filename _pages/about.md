@@ -49,23 +49,24 @@ Projects
 <span id="education"></span>
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
-    <p><strong>2019.09–2023.07</strong><br>
-    <strong>Doctor of Philosophy in Maritime and Transport Technology</strong><br>
+    <p><strong>2020.12-2025.09</strong><br>
+    <strong>Doctor in Artificial Intelligence and Environment monitoring</strong><br>
     Delft University of Technology, the Netherlands<br>
-    Supervisor: Prof. Rudy R. Negenborn, Dr. Xiaoli Jiang</p>
+    [AidroLab](https://www.tudelft.nl/ai/aidrolab), AI for sustainable water management
+    Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/staff/z.kapelan/), and Rinze de Vries</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/HEU.png" alt="photo" width="160" style="border-radius:8px;">
+    <img src="images/TUD.png" alt="photo" width="160" style="border-radius:8px;">
   </div>
 </div>
 
 
-Education
+<!-- Education
 ======
 - **[Delft University of Technology (TUD)](https://www.tudelft.nl/) (2020-2025)**
     - Ph.D., [AidroLab](https://www.tudelft.nl/ai/aidrolab), AI for sustainable water management, the Netherlands
     - Focus: Artificial Intelligence and Environment monitoring
-    - Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/staff/z.kapelan/), and Rinze de Vries
+    - Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/staff/z.kapelan/), and Rinze de Vries -->
 
 - **[Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2017-2020)**
     - M.Sc., School of Hydropower and Information Engineering, China

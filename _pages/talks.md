@@ -14,16 +14,10 @@ author_profile: true
 - Quantifying Floating Litter Fluxes with a Semi-Supervised Learning-Based Framework, [[Poster](https://www.researchgate.net/publication/396743813_Quantifying_Floating_Litter_Fluxes_with_a_Semi-Supervised_Learning-Based_Framework_EGU25_Poster)]
 - Detecting Floating Macroplastic litter with Semi-supervised Deep Learning, [[Poster](https://www.researchgate.net/publication/389987259_Detecting_Floating_Macroplastic_litter_with_Semi-supervised_Deep_Learning_AGU23_Poster)]
 
+
 # Media
 - [04/2026] Our KI-HopE-De project was featured in the 2025 edition of <span style="color:#4daf4a;">KIT NEULAND Magazine</span> in the article “The Whisper of Rivers”, highlighting our work on AI-based flood forecasting for small catchments in Germany. [[Link]](https://kit-neuland.de/en/blog/das-fluestern-der-fluesse/) [[PDF]](https://kit-neuland.de/fileadmin/PDFs/8437_NEULAND_Magazin_2025_EN_WEB.pdf)
 - [01/2023] Parts of my PhD work on plastic pollution monitoring in river systems, were featured in a project video by NORIA on <span style="color:#4daf4a;">YouTube</span>, titled “Monitoring Protocol to Prevent Plastic Pollution at Waddenzee: Stop Plastic from City to Wad”. [[Link]](https://www.youtube.com/watch?v=IEi9sZIuyOc)
-
-
-# Teaching and Tutorials
-- LaTeX in Overleaf for Scientific Writing, Workshop for Graduate Students, [[Video](https://www.bilibili.com/video/BV14X746YENA/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
-- How to use cluster/supercomputer for research? Workshop for Graduate Students, [[Video](https://www.bilibili.com/video/BV1KY7t6KEXD/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
-
-More tutorials can be found in my [Bilibili Channel](https://space.bilibili.com/305925157?spm_id_from=333.337.0.0).
 
 
 # PhD Defense

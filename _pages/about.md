@@ -45,6 +45,21 @@ Projects
 - AI-based detecting and quantification of floating macroplastic litter in rivers and urban waterways in the Netherlands, funded by TUD and [Ministry of Infrastructure and Water Management (RWS)](https://www.rijkswaterstaat.nl/en) (2020-2025)
 - Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html) (2017–2020)
 
+# Professional Experience
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2025.03–now</strong><br>
+    <strong>Postdoctoral researcher</strong><br>
+    Information-based Hydrology group, Institute of Water and Environment (IWU)<br>
+    Karlsruhe Institute of Technology (KIT), Germany<br>
+    Host: Dr. Uwe Ehret</p>
+  </div>
+  <div style="margin-left:22px;">
+    <img src="images/KIT.jpg" alt="photo" width="220" style="border-radius:8px;">
+  </div>
+</div>
+
+
 # Education
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">

@@ -12,9 +12,11 @@ author_profile: true
 
 # Supervision
 
-<h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
+<!-- <h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
 PhD Thesis (Co-supervisor)
-</h2>
+</h2> -->
+
+## PhD Thesis (Co-supervisor)
 - Xinyu Chang: <u>AI-based streamflow prediction</u> (2025.06-2026.03)<br>
 - Xiaole Xu: <u>AI-based streamflow prediction and precipitation forecast correction</u> <br>
 

@@ -7,30 +7,30 @@ author_profile: true
 {% include base_path %}
 
 # Invited Presentations
-- 2026.09&thinsp;&nbsp;&emsp;[The 5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english)
-- 2026.04  [7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
-- 2026.01  [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health
-- 2025.12  Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum
-- 2023.12  Global Young Scholars Forum of Sichuan University, Chengdu, China
-- 2023.12  [2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
-- 2022.12  [1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
+- 2026.09&emsp;[The 5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english)
+- 2026.04&emsp;[The 7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
+- 2026.01&emsp;[The 4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health
+- 2025.12&emsp;Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum
+- 2023.12&emsp;Global Young Scholars Forum of Sichuan University, Chengdu, China
+- 2023.12&emsp;[The 2nd Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
+- 2022.12&emsp;[The 1st Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), Special topic on water environment
 
 # Academic Conferences & Forums
-- 2026.08  [23rd China Water Forum](http://www.waterscience.cn/WRC/waterforum/), Harbin, China
-- 2026.05  The EGU General Assembly 2026 (EGU 2026), Vienna, Austria
+- 2026.08&emsp;[The 23rd China Water Forum](http://www.waterscience.cn/WRC/waterforum/), Harbin, China
+- 2026.05&emsp;The EGU General Assembly 2026 (EGU 2026), Vienna, Austria
 <!-- - Oct. 2025: Global Young Scholars Forum of Huazhong Agricultural University, Wuhan, China, <span style="color:#4daf4a;">Invited report</span> -->
 <!-- - Jul. 2025: Global Young Scholars Forum of Dalian University of Technology, Dalian, China, <span style="color:#4daf4a;">Invited report</span> -->
-- 2025.04  The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
-- 2025.04  China (Ningbo)–Germany Young Scholars Networking Event, Ningbo, China
+- 2025.04&emsp;The EGU General Assembly 2025 (EGU 2025), Vienna, Austria
+- 2025.04&emsp;China (Ningbo)–Germany Young Scholars Networking Event, Ningbo, China
 <!-- - Nov. 2024: Global Young Scholars Forum of Sichuan University, Chengdu, China, <span style="color:#4daf4a;">Invited report</span> -->
 <!-- - Nov. 2024: Global Young Scholars Forum of Hangzhou Dianzi University, Hangzhou, China, <span style="color:#4daf4a;">Invited report</span> -->
-- 2024.04  The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
-- 2023.12  American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
-- 2023.04  The EGU General Assembly 2023 (EGU 2023), Vienna, Austria
-- 2022.12  Workshop: Plastic research in the Netherlands, Wageningen, the Netherlands
-- 2022.05  The EGU General Assembly 2022 (EGU 2022), Vienna, Austria
-- 2019.04  Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China
-- 2018.10  1st International Symposium on Water System Operations (ISWSO 2018), Beijing, China
+- 2024.04&emsp;The EGU General Assembly 2024 (EGU 2024), Vienna, Austria
+- 2023.12&emsp;American Geophysical Union Fall Meeting 2023 (AGU 2023), San Francisco, USA
+- 2023.04&emsp;The EGU General Assembly 2023 (EGU 2023), Vienna, Austria
+- 2022.12&emsp;Workshop: Plastic research in the Netherlands, Wageningen, the Netherlands
+- 2022.05&emsp;The EGU General Assembly 2022 (EGU 2022), Vienna, Austria
+- 2019.04&emsp;Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China
+- 2018.10&emsp;The 1st International Symposium on Water System Operations (ISWSO 2018), Beijing, China
 
 # Professional Affliations and Services
 
@@ -72,7 +72,7 @@ Journal Reviewers
 
 
 
-<!-- # Conference organization  -->
+<!-- # Conference organization -->
 
 
 <!-- # Internship and project experience -->

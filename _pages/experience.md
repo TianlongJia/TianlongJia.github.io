@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Invited talks
+# Invited Presentations
 - Sep. 2026: [5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english)
 - Apr. 2026: [7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
 - Jan. 2026: [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health
@@ -32,21 +32,29 @@ author_profile: true
 - Apr. 2019: Tsinghua University "治者论水" Doctoral Academic Forum, Beijing, China
 - Oct. 2018: 1st International Symposium on Water System Operations (ISWSO 2018), Beijing, China
 
-# Professional Membership
+# Professional Affliations and Services
+
+<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
+Academic Organizations
+</h2>
 - American Geophysical Union Member
 - European Geosciences Union Member
 
-# Editorial Roles
+<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
+Editorial Roles
+</h2>
 - [Energy & Environment Nexus](https://www.maxapress.com/een), Early Career Editor
 - [The Innovation: Water](https://www.the-innovation.org/the-innovation-water), Early Career Editor
 - [Remote Sensing](https://www.mdpi.com/journal/remotesensing), Guest Editor, [Special issue](https://www.mdpi.com/journal/remotesensing/special_issues/2G7O0FUSLP)
 
+<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
+Conferences Organization 
+</h2>
+- 2026.05, The 6th Hydro90 Young Hydrologists Symposium, Session: Watershed and Urban Hydrology, (Co-chair) [[Link]](https://mp.weixin.qq.com/s/nFvd0KnnSgdzQGdE87xRFQ?scene=1) [[Video]](https://www.bilibili.com/video/BV1eNjP6VEk5/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)
 
-# Conferences Organization 
-- Co-chair of the Session “Watershed and Urban Hydrology”, the 6th Hydro90 Young Hydrologists Symposium, May 30-31, 2026. [[Link]](https://mp.weixin.qq.com/s/nFvd0KnnSgdzQGdE87xRFQ?scene=1) [[Video]](https://www.bilibili.com/video/BV1eNjP6VEk5/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)
-
-
-# Journal Reviewers
+<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
+Journal Reviewers
+</h2>
 - Hydrology and Earth System Sciences
 - Water Research
 - Neurocomputing

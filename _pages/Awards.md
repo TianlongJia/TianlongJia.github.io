@@ -6,6 +6,7 @@ author_profile: true
 # sidebar_link: true
 ---
 {% include base_path %}
+
 # Awards and fundings
 - 2026&thinsp;&nbsp;&emsp;&emsp;&emsp;**MSCA Seal of Excellence**, European Commission, Horizon Europe<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2025* (Score: 94.40%)

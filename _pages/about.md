@@ -118,8 +118,8 @@ Projects
 
 
 **Contact**
-- E-mail: *Tianlong.Jia@kit.edu*
-- Office: Room 420.3, Building 10.81, Otto-Ammann-Platz 1, 76131 Karlsruhe, Germany
+E-mail: *Tianlong.Jia@kit.edu*
+Office: Room 420.3, Building 10.81, Otto-Ammann-Platz 1, 76131 Karlsruhe, Germany
 
 **I am always open to collaborations and interesting conversations, and can be best reached by email.**
 

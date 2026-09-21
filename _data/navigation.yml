@@ -12,12 +12,15 @@ main:
   - title: "Awards"
     url: /Awards/  
 
-  - title: "Teaching and Supervision"
-    url: /Teaching and Supervision/  
+  - title: "Code + data"
+    url: /code_data/  
+
+  - title: "Publications"
+    url: /publications/
     
   - title: "Others"
     url: /others/  
-    
+
   # - title: "Talks"
   #   url: /talks/    
 

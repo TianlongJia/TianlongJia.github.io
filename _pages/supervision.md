@@ -12,18 +12,18 @@ author_profile: true
 
 # Supervision
 
-<h2 style="font-size: 1.25em; margin-top: 1.2em; margin-bottom: 0.4em;">
+<h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
 PhD Thesis (Co-supervisor)
 </h2>
 - Xinyu Chang: <u>AI-based streamflow prediction</u> (2025.06-2026.03)<br>
 - Xiaole Xu: <u>AI-based streamflow prediction and precipitation forecast correction</u> <br>
 
-## Master Thesis (main supervisor)
+## Master Thesis (Main supervisor)
 - Chuyue Zhang: <u>Vision-Language Models for floating litter detection</u> (2025.12-2026.06) <br>
 - Zeyu Lan: <u>AI-based floating litter detection</u> <br>
 - Yuxin Li: <u>AI-based water quality prediction</u> <br>
 - Xinyao Lou: <u>AI-based flood mapping</u><br>
-- Tuo Shi: <u>AI-based sewer defect detection</u> (co-supervise) <br>
+- Tuo Shi: <u>AI-based sewer defect detection</u> <br>
 
 ## Research Project (Main supervisor)
 - Yuxin Li: <u>AI-based water quality prediction</u> <br>

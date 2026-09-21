@@ -39,3 +39,19 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom heading and spacing */
+.page__content h2 {
+  font-size: 1.2em;
+  margin-top: 1.0em;
+  margin-bottom: 0.35em;
+}
+
+.page__content ul {
+  margin-top: 0.15em;
+  margin-bottom: 0.7em;
+}
+
+.page__content li {
+  margin-bottom: 0.25em;
+}

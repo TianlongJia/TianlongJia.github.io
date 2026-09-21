@@ -75,7 +75,7 @@ Projects
   <div style="flex:1;">
     <p><strong>2013.09-2017.06</strong><br>
     <strong>Bachelor of Engineering in Port & Waterway and Coastal Engineering</strong><br>
-    Harbin Engineering University, China<br>
+    Harbin Engineering University, China<br></p>
   </div>
   <div style="margin-left:20px;">
     <img src="images/HEU.png" alt="photo" width="160" style="border-radius:8px;">

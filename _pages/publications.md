@@ -8,7 +8,7 @@ author_profile: true
 You can also find my papers in [my Google Scholar](https://scholar.google.com.hk/citations?user=3L04RecAAAAJ&hl=zh-CN). <br>
 
 # Doctoral Thesis
-Jia, T. (2025). [**Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments**](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e), Dissertation (TU Delft), Delft University of Technology. [[Defense Video](https://nmclive.tudelft.nl/mediasite/play/b9af7336332945e5b8f3a8ca09a5219c1d)]
+Jia, T. (2025). <u>Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments</u>, Dissertation, Delft University of Technology. [[PDF]](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e)  [[Defense Video](https://nmclive.tudelft.nl/mediasite/play/b9af7336332945e5b8f3a8ca09a5219c1d)]
 
 # Journal Papers
 

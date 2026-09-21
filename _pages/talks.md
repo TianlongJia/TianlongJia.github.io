@@ -20,9 +20,6 @@ author_profile: true
 - [01/2023] Parts of my PhD work on plastic pollution monitoring in river systems, were featured in a project video by NORIA on <span style="color:#4daf4a;">YouTube</span>, titled “Monitoring Protocol to Prevent Plastic Pollution at Waddenzee: Stop Plastic from City to Wad”. [[Link]](https://www.youtube.com/watch?v=IEi9sZIuyOc)
 
 
-# PhD Defense
-- Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments, [[Video](https://nmclive.tudelft.nl/mediasite/play/b9af7336332945e5b8f3a8ca09a5219c1d)]
-
 
 # Research sharing
 

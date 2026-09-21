@@ -59,6 +59,29 @@ Projects
   </div>
 </div>
 
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2017.09-2020.06</strong><br>
+    <strong>Master of Engineering in Optimal Operation of Hydropower Reservoirs</strong><br>
+    Huazhong University of Science and Technology, China<br>
+    Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/HUST.png" alt="photo" width="160" style="border-radius:8px;">
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2013.09-2017.06</strong><br>
+    <strong>Bachelor of Engineering in Port & Waterway and Coastal Engineering</strong><br>
+    Harbin Engineering University, China<br>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/HEU.png" alt="photo" width="160" style="border-radius:8px;">
+  </div>
+</div>
+
 
 <!-- Education
 ======
@@ -67,14 +90,14 @@ Projects
     - Focus: Artificial Intelligence and Environment monitoring
     - Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/staff/z.kapelan/), and Rinze de Vries -->
 
-- **[Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2017-2020)**
+<!-- - **[Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2017-2020)**
     - M.Sc., School of Hydropower and Information Engineering, China
     - Focus: Optimized scheduling of hydropower for reservoirs
-    - Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)
+    - Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm) -->
 
-- **[Harbin Engineering University](https://english.hrbeu.edu.cn) (2013-2017)**
+<!-- - **[Harbin Engineering University](https://english.hrbeu.edu.cn) (2013-2017)**
     - B.S., College of Shipbuilding Engineering, China
-    - Focus: Port & Waterway and Coastal Engineering
+    - Focus: Port & Waterway and Coastal Engineering -->
 
 
 **Contact**

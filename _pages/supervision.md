@@ -10,9 +10,10 @@ author_profile: true
 <b>If you are a master student/intern hunting at KIT for a topic about AI in hydrology, water management or environment monitoring, I am glad to have a discussion/talk with you about a potential idea.</b>
 </div>
 
+
 # Supervision
 
-<h2 style="font-size: 1em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em;">
+<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
 PhD Thesis (Co-supervisor)
 </h2>
 - Xinyu Chang: <u>AI-based streamflow prediction</u> (2025.06-2026.03)

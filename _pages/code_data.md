@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Datasets
+
 <h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
 Floating litter detection with AI
 </h2>

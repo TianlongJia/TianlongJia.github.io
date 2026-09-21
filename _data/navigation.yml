@@ -9,16 +9,15 @@ main:
   - title: "Experience"
     url: /experience/  
   
-  - title: "Talks & Media"
-    url: /talks/  
-  
   - title: "Awards"
     url: /Awards/  
 
   - title: "Teaching and Supervision"
     url: /Teaching and Supervision/  
     
-
+  - title: "Others"
+    url: /others/  
+    
   # - title: "Talks"
   #   url: /talks/    
 

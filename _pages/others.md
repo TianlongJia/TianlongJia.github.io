@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: null
-permalink: /talks/
+permalink: /others/
 author_profile: true
 ---
 {% include base_path %}

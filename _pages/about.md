@@ -51,8 +51,8 @@ Projects
     <p><strong>2020.12-2025.09</strong><br>
     <strong>Doctor in Artificial Intelligence and Environment monitoring</strong><br>
     Delft University of Technology, the Netherlands<br>
-    [AidroLab](https://www.tudelft.nl/ai/aidrolab), AI for sustainable water management
-    Supervisor: Dr. [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), Prof. [Zoran Kapelan](https://www.tudelft.nl/staff/z.kapelan/), and Rinze de Vries</p>
+    AidroLab, AI for sustainable water management
+    Supervisor: Dr. Riccardo Taormina, Prof. Zoran Kapelan, and Rinze de Vries</p>
   </div>
   <div style="margin-left:20px;">
     <img src="images/TUD.png" alt="photo" width="160" style="border-radius:8px;">
@@ -64,7 +64,7 @@ Projects
     <p><strong>2017.09-2020.06</strong><br>
     <strong>Master of Engineering in Optimal Operation of Hydropower Reservoirs</strong><br>
     Huazhong University of Science and Technology, China<br>
-    Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm)</p>
+    Supervisor: Prof. Jianzhong Zhou, Prof. Dong Yan, and Prof. Hui Qin</p>
   </div>
   <div style="margin-left:20px;">
     <img src="images/HUST.png" alt="photo" width="160" style="border-radius:8px;">

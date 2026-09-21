@@ -7,8 +7,14 @@ author_profile: true
 
 You can also find my papers in [my Google Scholar](https://scholar.google.com.hk/citations?user=3L04RecAAAAJ&hl=zh-CN). <br>
 
+# Doctoral Thesis
+Jia, T. (2025). [**Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments**](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e), Dissertation (TU Delft), Delft University of Technology. [[Defense Video](https://nmclive.tudelft.nl/mediasite/play/b9af7336332945e5b8f3a8ca09a5219c1d)]
+
 # Journal Papers
-## First author
+
+<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
+First author
+</h2>
 
 1. **Jia, T.\***, Chen, G.\*, Li, Y., Chang, X., & Ehret, U. (2026). <u>Streamflow prediction in data-scarce regions with semi-supervised deep learning</u>. EGUsphere, 2026, 1-37. [[Preprint]](https://doi.org/10.5194/egusphere-2026-1637) <br>
 
@@ -26,7 +32,9 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 
 8. **Jia, T.**, Qin, H.*, Yan, D., Zhang, Z., Liu, B., Li, C., Wang, J., & Zhou, J. (2019). <u>Short-term multi-objective optimal operation of reservoirs to maximize the benefits of hydropower and navigation</u>. Water. [[PDF]](https://www.mdpi.com/2073-4441/11/6/1272) <br>
 
-## Other authors
+<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
+Other papers
+</h2>
 
 9. Yang, Q., Qiu, S., ..., **Jia, T.**, Shan, B.\*, & Michele, C. D. (2026). <u>HydroAgent: formalizing forecaster expertise into skill-orchestrated flood forecasting workflows</u>. arXiv:2607.23983. [[Preprint]](https://doi.org/10.48550/arXiv.2607.23983) [[中文导读]](https://mp.weixin.qq.com/s/VEHzSb2zE8UNic7ARED-lw) <br>
 
@@ -82,9 +90,6 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 10. **Jia T.**, Zhou J.*, & Liu X. <u>A daily power generation optimized operation method of hydropower stations with the navigation demands considered</u>, 1st International Symposium on Water System Operations, Beijing, China, 2018 [[Conference Paper]](https://doi.org/10.1051/matecconf/201824601065) <br>
 
 
-
-# Doctoral Thesis
-Jia, T. (2025). [**Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments**](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e), Dissertation (TU Delft), Delft University of Technology.
 
 # Datasets
 - Detection of floating litter in freshwater bodies using deep learning

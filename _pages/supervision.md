@@ -6,22 +6,15 @@ author_profile: true
 ---
 {% include base_path %}
 
-<style>
-.teaching-page h2 {
-    margin-top: 1.2em;
-    margin-bottom: 0.5em;
-}
-</style>
-<div class="teaching-page">
-
 <div style="background-color:#e6f0ff; padding:15px; border-radius:8px;">
 <b>If you are a master student/intern hunting at KIT for a topic about AI in hydrology, water management or environment monitoring, I am glad to have a discussion/talk with you about a potential idea.</b>
 </div>
 
 # Supervision
 
-## PhD Thesis (Co-supervisor)
-
+<h2 style="font-size: 1em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em;">
+PhD Thesis (Co-supervisor)
+</h2>
 - Xinyu Chang: <u>AI-based streamflow prediction</u> (2025.06-2026.03)
 - Xiaole Xu: <u>AI-based streamflow prediction and precipitation forecast correction</u> 
 

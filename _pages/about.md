@@ -45,8 +45,7 @@ Projects
 - AI-based detecting and quantification of floating macroplastic litter in rivers and urban waterways in the Netherlands, funded by TUD and [Ministry of Infrastructure and Water Management (RWS)](https://www.rijkswaterstaat.nl/en) (2020-2025)
 - Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html) (2017–2020)
 
-# 📖 Educations
-<span id="education"></span>
+# 📖 Education
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2020.12-2025.09</strong><br>

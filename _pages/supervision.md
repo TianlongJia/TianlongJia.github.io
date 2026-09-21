@@ -12,25 +12,29 @@ author_profile: true
 
 # Supervision
 
-<!-- <h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
+<h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
 PhD Thesis (Co-supervisor)
-</h2> -->
-
-## PhD Thesis (Co-supervisor)
+</h2>
 - Xinyu Chang: <u>AI-based streamflow prediction</u> (2025.06-2026.03)<br>
 - Xiaole Xu: <u>AI-based streamflow prediction and precipitation forecast correction</u> <br>
 
-## Master Thesis (Main supervisor)
+<h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
+Master Thesis (Main supervisor)
+</h2>
 - Chuyue Zhang: <u>Vision-Language Models for floating litter detection</u> (2025.12-2026.06) <br>
 - Zeyu Lan: <u>AI-based floating litter detection</u> <br>
 - Yuxin Li: <u>AI-based water quality prediction</u> <br>
 - Xinyao Lou: <u>AI-based flood mapping</u><br>
 - Tuo Shi: <u>AI-based sewer defect detection</u> <br>
 
+<h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
 ## Research Project (Main supervisor)
+</h2>
 - Yuxin Li: <u>AI-based water quality prediction</u> <br>
 
+<h2 style="font-size: 1.25em; margin-top: 0.4em; margin-bottom: 0.4em;">
 ## Thesis Assistant
+</h2>
 - MSc Andre Jehan Vallendar:<u>Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways</u> (2021.01-2021.07) [[link]](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), [[Video demo]](https://www.youtube.com/watch?v=fNAS2q9GIws)
 
 

@@ -46,6 +46,7 @@ Projects
 - Optimal reservoir operation in the upper and middle reaches of the Yangtze River, China, considering power generation, flood control, and navigation demands (The National Key R&D Program of China), funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html) (2017–2020)
 
 # Professional Experience
+
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2025.03–now</strong><br>
@@ -61,12 +62,13 @@ Projects
 
 
 # Education
+
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2020.12-2025.09</strong><br>
     <strong>Doctor in Artificial Intelligence and Environment monitoring</strong><br>
     Delft University of Technology, the Netherlands<br>
-    AidroLab, AI for sustainable water management
+    AidroLab, AI for sustainable water management<br>
     Supervisor: Dr. Riccardo Taormina, Prof. Zoran Kapelan, and Rinze de Vries</p>
   </div>
   <div style="margin-left:20px;">

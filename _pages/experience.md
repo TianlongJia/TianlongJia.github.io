@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 # Invited Presentations
-- 2026.09  [5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english)
+- 2026.09&thinsp;&nbsp;&emsp;[The 5th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english)
 - 2026.04  [7th National Symposium on Environmental Microplastic Pollution and Control](https://mps2026.casconf.cn/), <span style="color:#4daf4a;">Invited keynote report</span>
 - 2026.01  [4th Europe-China Eco-Environmental Forum for Young Scholars](https://eu-cnees.com/english), topic on digital ecology and environmental health
 - 2025.12  Chinese-European Society for Environment, Ecology & Sustainability (欧洲环境、生态与可持续发展华人学会, [CESEES](https://cesees.org/)), Environmental Forum

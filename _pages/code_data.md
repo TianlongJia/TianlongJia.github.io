@@ -26,7 +26,6 @@ Floating litter detection with AI
 - The TU Delft - Ho Chi Minh City dataset (with annotations for object detection tasks) [[Link]](https://doi.org/10.5281/zenodo.17387612)
 
 
-- Detection of the interaction between particles and biomass in biological wastewater treatment process with deep learning
 <h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
 Particles and biomass detection with AI
 </h2>

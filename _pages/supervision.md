@@ -26,17 +26,13 @@ Master Thesis (Main supervisor)
 - Zeyu Lan: <u>AI-based floating litter detection</u>
 - Yuxin Li: <u>AI-based water quality prediction</u> 
 - Xinyao Lou: <u>AI-based flood mapping</u>
-- Tuo Shi: <u>AI-based sewer defect detection</u> 
 
 <h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
-Research Project (Main supervisor)
+Research Project
 </h2>
-- Yuxin Li: <u>AI-based water quality prediction</u> 
-
-<h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
-Thesis Assistant
-</h2>
-- MSc Andre Jehan Vallendar:<u>Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways</u> (2021.01-2021.07) [[link]](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), [[Video demo]](https://www.youtube.com/watch?v=fNAS2q9GIws)
+- Yuxin Li: <u>AI-based water quality prediction</u> (Main supervisor)
+- Tuo Shi: <u>AI-based sewer defect detection</u> (Main supervisor)
+- Andre Jehan Vallendar <u>Exploration of deep learning-based computer vision for the detection of floating plastic debris in waterways</u> (2021.01-2021.07) [[link]](https://resolver.tudelft.nl/uuid:70db8965-37c9-4d9d-9573-d4a28d1b64ef), [[Video demo]](https://www.youtube.com/watch?v=fNAS2q9GIws)
 
 
 # Teaching

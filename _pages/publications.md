@@ -10,7 +10,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com.hk
 # Doctoral Thesis
 Jia, T. (2025). <u>Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments</u>, Dissertation, Delft University of Technology. [[PDF]](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e)  [[Defense Video](https://nmclive.tudelft.nl/mediasite/play/b9af7336332945e5b8f3a8ca09a5219c1d)]
 
-# Journal Papers
+# Journal Papers <span style="font-size: 0.6em; font-weight: normal;">(*: corresponding author)</span>
 
 <h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
 First author
@@ -49,10 +49,7 @@ Other papers
 
 13. Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  <u>Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.121999) <br>
 
-14. Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). <u>PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale</u>. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0) <br>
-
-
-*: corresponding author
+14. Chen, G., Zhang, K.*, Wang, S., & **Jia, T**. (2023). <u>PHyL v1.0: A parallel, flexible, and advanced software for hydrological and slope stability modeling at a regional scale</u>. Environmental Modelling & Software. [[PDF]](https://doi.org/10.1016/j.envsoft.2023.105882)  [[Code]](https://github.com/GuodingChen/PHyL_v1.0)
 
 <br>
 

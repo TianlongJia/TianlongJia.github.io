@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers in [my Google Scholar](https://scholar.google.com.hk/citations?user=3L04RecAAAAJ&hl=zh-CN). <br>
-
 # Doctoral Thesis
 Jia, T. (2025). <u>Deep learning-based Methods for Detecting and Quantifying floating litter in Riverine Environments</u>, Dissertation, Delft University of Technology. [[PDF]](https://doi.org/10.4233/uuid:46d1a28c-eb01-4f63-aa33-1bd8d866e52e)  [[Defense Video](https://nmclive.tudelft.nl/mediasite/play/b9af7336332945e5b8f3a8ca09a5219c1d)]
 
 # Journal Papers <span style="font-size: 0.6em; font-weight: normal;">(*: corresponding author)</span>
+
+You can also find my papers in [my Google Scholar](https://scholar.google.com.hk/citations?user=3L04RecAAAAJ&hl=zh-CN).
 
 <h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">
 First author
@@ -53,7 +53,7 @@ Other papers
 
 <br>
 
-# Conference papers or abstract
+# Conference papers and abstracts
 1. **Jia, T.**, Chen, G., & Ehret, U. <u>Semi-Supervised Deep Learning for Streamflow Prediction in Data-scarce Regions</u>, EGU26 (European Geosciences Union) Conference, Vienna, Austria, May 2026. [[Abstract]](https://meetingorganizer.copernicus.org/EGU26/EGU26-8108.html) <br>
 
 1. Zhang, C., **Jia, T.**, Franca, M., Lofty, J., Rebai, D., & Ehret, U. <u>Vision-Language Models for Floating Litter Detection</u>, EGU26 (European Geosciences Union) Conference, Vienna, Austria, May 2026. [[Abstract]](https://meetingorganizer.copernicus.org/EGU26/EGU26-8285.html) <br>

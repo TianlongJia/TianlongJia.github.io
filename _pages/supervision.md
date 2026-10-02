@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: null
-permalink: /Teaching + Supervision/
+permalink: /Teaching_Supervision/
 author_profile: true
 ---
 {% include base_path %}

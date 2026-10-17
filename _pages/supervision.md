@@ -41,7 +41,7 @@ Workshop for Graduate Students
 </h2>
 - LaTeX in Overleaf for Scientific Writing, [[Video](https://www.bilibili.com/video/BV14X746YENA/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
 - How to use cluster/supercomputer for research?, [[Video](https://www.bilibili.com/video/BV1KY7t6KEXD/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
-
+- Academic English Writing [[Video](https://www.bilibili.com/video/BV1imJ469Eyh/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f75b9e25128bf502bfcc2a05dfcab32c)]
 
 More teaching tutorials can be found in my [Bilibili Channel](https://space.bilibili.com/305925157?spm_id_from=333.337.0.0).
 

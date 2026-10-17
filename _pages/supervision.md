@@ -24,7 +24,7 @@ Master Thesis (Main supervisor)
 </h2>
 - Chuyue Zhang: <u>Vision-Language Models for floating litter detection</u> (2025.12-2026.06)
 - Zeyu Lan: <u>AI-based floating litter detection</u>
-- Yuxin Li: <u>AI-based water quality prediction</u> 
+<!-- - Yuxin Li: <u>AI-based water quality prediction</u>  -->
 - Xinyao Lou: <u>AI-based flood mapping</u>
 
 <h2 style="font-size: 1.2em; margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 1em; font-style: italic;">

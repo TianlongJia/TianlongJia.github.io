@@ -46,7 +46,7 @@ Other papers
 
 11. van Emmerik, T. H. M.*, Janssen, T. W., **Jia, T.**, Bui, T.-K. L., Taormina, R., Nguyen, H.-Q., & Schreyers, L. J. (2025).  <u>Plastic pollution and water hyacinths consistently co-occur in the lower Saigon river</u>. Environmental Research: Water. [[PDF]](https://doi.org/10.1088/3033-4942/ae10d7)  [[Code]](https://github.com/TianlongJia/deep_plastic_YoloV8) <br>
 
-12. Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  <u>Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering</u>. Water. <span style="color:#4daf4a;">Editor’s Choice article</span> [[PDF]](https://doi.org/10.3390/w17223316) <br>
+12. Chen, G.*, Wu, X., Hu, L., Chi, Y., **Jia, T.**, & Luo, Y. (2025).  <u>Numerical Analysis of 3D Slope Stability in a Rainfall-Induced Landslide: Insights from Different Hydrological Conditions and Soil Layering</u>. Water. [[PDF]](https://doi.org/10.3390/w17223316) <span style="color:#4daf4a;">(Editor’s Choice article)</span><br>
 
 13. Wu, Y., Ma, X., Guo, G., **Jia, T.**, Huang, Y., Liu, S.*, Fan, J., & Wu, X. (2024).  <u>Advancing Deep Learning-Based Acoustic Leak Detection Methods Towards Application for Water Distribution Systems from a Data-centric Perspective</u>. Water Research. [[PDF]](https://doi.org/10.1016/j.watres.2024.121999) <br>
 

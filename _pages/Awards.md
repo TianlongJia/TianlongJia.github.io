@@ -11,7 +11,7 @@ author_profile: true
 - 2026&thinsp;&nbsp;&emsp;&emsp;&emsp;**MSCA Seal of Excellence**, European Commission, Horizon Europe<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2025* (Score: 94.40%)
 - 2026&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Poster Award for the “Most Innovative Study”, at [Hydrology Day 2026](https://www.uni-kassel.de/tagung-konferenz/tag-der-hydrologie-2026.html) (co-author)
-- 2025&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Editor’s Choice article
+- 2025&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Editor’s Choice [article](https://doi.org/10.3390/w17223316)
 - 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**[Lamminga funding](https://lammingafonds.nl/)**
 
 # Scholarship
